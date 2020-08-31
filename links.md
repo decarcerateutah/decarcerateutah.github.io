@@ -3,7 +3,17 @@ layout: page
 title: links | decarcerate utah
 permalink: /links/
 ---
-
+<div class="links">
+{% include button.html
+  url="https://www.decarcerateutah.org/courtsupport/"
+  text="Sign up to be a Court Support Volunteer"
+%} 
+  
+  <div class="links">
+{% include button.html
+  url="https://www.gofundme.com/f/support-local-protester-charged"
+  text="Donate to Eric Javier's Legal Fund"
+%} 
 
 <div class="links">
 {% include button.html
@@ -14,11 +24,6 @@ permalink: /links/
 {% include button.html
   url="https://www.change.org/p/salt-lake-city-district-attorney-sim-gill-protect-civil-liberties-demand-the-d-a-drop-all-charges-against-peaceful-protestors"
   text="Sign the petition: drop all charges for protesters"
-%} 
-
-{% include button.html
-  url="https://docs.google.com/forms/u/2/d/12wZXeKL64F9tNkI5HGHojmcrkgzavoqpIlMQ9XDZUNg/edit"
-  text="What would you fund instead of West Valley Police?"
 %} 
   
 {% include button.html
