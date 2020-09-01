@@ -2,7 +2,7 @@
 layout: page
 title: contact | decarcerate utah
 footer: true
-position: 2
+position: 1
 permalink: /contact/
 ---
 
