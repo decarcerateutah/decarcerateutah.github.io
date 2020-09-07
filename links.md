@@ -5,6 +5,11 @@ permalink: /links/
 ---
 <div class="links">
 {% include button.html
+  url="https://docs.google.com/forms/d/e/1FAIpQLSe1EAoCLHlP9vZhEwN4g3taeMRF43nwtsyN2P1DfU3TPMXBnA/viewform"
+  text="RSVP for the 'What To Do Instead of Calling the Police' Webinar"
+%}   
+  
+{% include button.html
   url="https://donorbox.org/salt-lake-community-bail-fund?default_interval=o"
   text="Donate to the Salt Lake Community Bail Fund"
 %} 
