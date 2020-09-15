@@ -5,8 +5,8 @@ permalink: /links/
 ---
 <div class="links">
 {% include button.html
-  url="https://docs.google.com/forms/d/e/1FAIpQLSe1EAoCLHlP9vZhEwN4g3taeMRF43nwtsyN2P1DfU3TPMXBnA/viewform"
-  text="RSVP for the 'What To Do Instead of Calling the Police' Webinar"
+  url="https://youtu.be/M4YjmbQZnBA"
+  text="Watch our 'What To Do Instead of Calling the Police' webinar"
 %}   
   
 {% include button.html
