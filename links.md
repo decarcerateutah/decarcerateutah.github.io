@@ -8,7 +8,7 @@ permalink: /links/
   url="bit.ly/defundutpolice"
   text="Take the Survey on Budgets and Funding"
 %} 
-  
+ 
 {% include button.html
   url="https://youtu.be/M4YjmbQZnBA"
   text="Watch our 'What To Do Instead of Calling the Police' webinar"
