@@ -6,6 +6,7 @@ teaser_image: /images/teasers/what to do instead of calling the police - 1.JPG
 featured: true
 date: 2020-09-26
 ---
+
 {% include image.html
   filename="/images/teasers/what to do instead of calling the police - 1.JPG"
   alt="What to do instead of calling the police poster"
@@ -116,18 +117,18 @@ De-escalation: Re-establish Safety:
   2. Deep breaths
   3. Tone of voice
   4. DO NOT GET DEFENSIVE
-Rapport
-- Introduction - be honest, ask for permission to help, reassure
-Remove Danger- people need danger response when in danger
-- Actual or perceived
-- Reassure
-Reflect
-- Mirror- no need to extinguish emotion
-- Do not tell the person to “calm down”
-- No commands, criticisms, or challenges
-- Limit questions
-Reconnect to present SAFETY
-- Sensory activation and energy release
+- Rapport
+  1. Introduction - be honest, ask for permission to help, reassure
+- Remove Danger- people need danger response when in danger
+  1. Actual or perceived
+  2. Reassure
+- Reflect
+  1. Mirror- no need to extinguish emotion
+  2. Do not tell the person to “calm down”
+  3. No commands, criticisms, or challenges
+  4. Limit questions
+- Reconnect to present SAFETY
+  1. Sensory activation and energy release
 
 ## Mutual Aid/Care Network (post-Crisis)
 After a crisis, our immediate reactions tend to be “did you go to the police?!” or “you have to go to the police!”. We’re so reliant on the legal system that instead of focusing on how we can address immediate needs, we rush into pressuring people to file reports that are often subjected to a long, tiring, drawn-out process. As a result, this means that seeking legal help can be retraumatizing for so many people with no care or support for their healing—which is why a lot of survivors do not report their assaults. Instead of going to the police after something has happened, we can focus on making sure individual needs are taken care.
