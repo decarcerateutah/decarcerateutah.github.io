@@ -6,6 +6,10 @@ teaser_image: /images/teasers/what to do instead of calling the police - 1.JPG
 featured: true
 date: 2020-09-26
 ---
+{% include image.html
+  filename="/images/teasers/what to do instead of calling the police - 1.JPG"
+  alt="What to do instead of calling the police poster"
+%}
 
 # Introduction
 The energy growing around campaigns to #DefundPolice and to promote abolition cannot be stopped. As people are introduced to abolitionist practices, it’s a great time to question the legitimacy of the police and the idea that they promote community safety.
