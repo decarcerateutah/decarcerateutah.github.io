@@ -233,7 +233,7 @@ Compare the pros & cons of two or more options you are considering (either in yo
 Place your hand on your stomach and breathe in for 4 seconds, out for 6-8 seconds to activate your parasympathetic nervous system.
 
 # Conclusion
-We thank everyone who came together to share information and welcome any more that you have to share. If you feel like adding to this resource or have comments or concerns, we’d love to hear from you and can be reached at [decarcerateutah@gmail.com](MAILTO: decarcerateutah@gmail.com).
+We thank everyone who came together to participate in this workshop. If you feel like adding to this resource or have comments or concerns, we’d love to hear from you and can be reached at [decarcerateutah@gmail.com](MAILTO: decarcerateutah@gmail.com).
 
 Stay tuned for more updates as we build more ongoing community resources and skill-sharing tips to protect each other from police violence. If you felt like this information was valuable, please consider donating to the [SLC Bail Fund](https://www.slcbailfund.org/donate).
 
