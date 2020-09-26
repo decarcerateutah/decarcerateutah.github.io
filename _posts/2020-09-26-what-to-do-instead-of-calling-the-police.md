@@ -59,11 +59,12 @@ Learn more about transformative justice experiences through the book, [Beyond Su
 A [safety plan](https://www.loveisrespect.org/for-yourself/safety-planning/) is a “personalized, practical plan that can help you avoid dangerous situations and know the best way to react when you’re in danger.” Safety plans can be something you make yourself, or in collaboration with a loved one. They often benefit people suffering from suicide ideation, psychosis, or other potentially dangerous side-effects of mental illness; individuals in abusive or chaotic relationships; people in recovery from an addiction to drugs or alcohol; or anyone who regularly experiences high-risk crises.
 
 **Tips for Safety Plans**
-Remember that you are not trying to stop any crisis from ever happening. Instead, you are lowering the peak of the crisis.
-If you are helping someone else create a safety plan, the term ‘safety plan’ can be triggering for people who have been in punitive healthcare. Approach instead by saying, “I love you and want to feel better prepared to help keep you safe. Can we come up with some strategies together?”
-YOU CANNOT CONTROL OTHER PEOPLE. Safety plans are not a way to control others, but to present healthy options that their support network can help them utilize. Do not get angry or interrogative when someone does not follow their safety plan.
-Tell people about your safety plan! The more people who know, the more likely the plan will be effective. It’s also helpful to get really specific about how you want others to engage with your plan (ex- check in with you about coping skills, call your contacts for you, hold dangerous items in their house, etc).
-Boundaries are healthy! If someone does not want to fulfill a specific role in your plan, it does not mean they don’t love you. Instead, ask them if there is another role they would feel more comfortable fulfilling.
+
+1. Remember that you are not trying to stop any crisis from ever happening. Instead, you are lowering the peak of the crisis.
+2. If you are helping someone else create a safety plan, the term ‘safety plan’ can be triggering for people who have been in punitive healthcare. Approach instead by saying, “I love you and want to feel better prepared to help keep you safe. Can we come up with some strategies together?”
+3. YOU CANNOT CONTROL OTHER PEOPLE. Safety plans are not a way to control others, but to present healthy options that their support network can help them utilize. Do not get angry or interrogative when someone does not follow their safety plan.
+4. Tell people about your safety plan! The more people who know, the more likely the plan will be effective. It’s also helpful to get really specific about how you want others to engage with your plan (ex- check in with you about coping skills, call your contacts for you, hold dangerous items in their house, etc).
+5. Boundaries are healthy! If someone does not want to fulfill a specific role in your plan, it does not mean they don’t love you. Instead, ask them if there is another role they would feel more comfortable fulfilling.
 
 **Here are some more resources for safety plans:**
 - [General Safety Plans](https://www.ktherapy.ca/blog/2018/2/6/how-to-make-a-safety-plan)
@@ -160,7 +161,7 @@ The Bystander Effect is a social psychological theory that suggests that individ
 
 Remember that, like many other terrible things in this world, the bystander effect is NOT a natural, innate part of us. If it’s learned, it can be unlearned.
 
-**How Do I Not Be a Bystander Then?**
+**How Do I Not Be a Bystander Then?**<br>
 Knowing is (only) the first step.Change your mindset, do a deep dive and look at the carceral logics you’ve internalized, and broaden your definition of community. Cultivate empathy and take action! Ask yourself - How can you, through everyday action and with others, co-create a world without police?
 
 You can introduce yourself to people in your geographic area and build relationships with them (like bringing waters to a local encampment), learn and practice bystander intervention strategies (but take them with a grain of salt), learn and practice harm reduction tactics, and work with or give money to groups that do outreach with at-risk communities. Organizing with your community is the best way to build people power + create a better world!
@@ -173,27 +174,28 @@ You can introduce yourself to people in your geographic area and build relations
 - [Handling a mental health crisis](https://www.nami.org/Support-Education/Publications-Reports/Guides/Navigating-a-Mental-Health-Crisis/Navigating-A-Mental-Health-Crisis)
 
 **Organizations to support**
-Utah Naloxone
-[To learn how to use Naloxone](http://www.utahnaloxone.org/utah-naloxone-videos-recognizing-an-overdose-and-using-naloxone-kits/)
-To get a life saving naloxone kit
-Call: (385) 495-9050
+
+Utah Naloxone<br>
+[To learn how to use Naloxone](http://www.utahnaloxone.org/utah-naloxone-videos-recognizing-an-overdose-and-using-naloxone-kits/)<br>
+To get a life saving naloxone kit<br>
+Call: (385) 495-9050<br>
 E-mail: UtahNaloxone@gmail.com
 
-[Utah Harm Reduction Coalition](http://www.utahharmreduction.org/)
+[Utah Harm Reduction Coalition](http://www.utahharmreduction.org/)<br>
 Call: (385) 266-7206
 
-[The Sex Workers Outreach Project Salt Lake City Chapter](https://linktr.ee/swopslc)
+[The Sex Workers Outreach Project Salt Lake City Chapter](https://linktr.ee/swopslc)<br>
 Instagram/Twitter: @SWOPslc
 
-[Just Media Utah](https://justmediautah.com)
-Instagram/Twitter: @justmediautah
+[Just Media Utah](https://justmediautah.com)<br>
+Instagram/Twitter: @justmediautah<br>
 Venmo: @Just-Media-Utah
 
-[United Panther Movement SLC](https://nabpp.net/upm)
-Instagram: @unitedpanthermovementslc
+[United Panther Movement SLC](https://nabpp.net/upm)<br>
+Instagram: @unitedpanthermovementslc<br>
 Venmo: @upm-slc
 
-Community Member Kale
+Community Member Kale<br>
 Venmo: @Kale-Morse
 
 ## Overcoming Fear/Anxiety
@@ -212,22 +214,22 @@ Guidelines for mindfully moving through fear/anxiety:
   2. Does my intervention serve my entire community?
 4. Ask other people for help if you need it!
 
-**Exercises for grounding/mindful decision making:**
-*Five Finger Method:*
-Count 5 deep in-and-out breaths
-List 5 things you can observe with your senses (one for each sense)
-List 5 additional interpretations of the facts you see - bonus points for harmless interpretations!
+**Exercises for grounding/mindful decision making:**<br>
+*Five Finger Method:*<br>
+Count 5 deep in-and-out breaths<br>
+List 5 things you can observe with your senses (one for each sense)<br>
+List 5 additional interpretations of the facts you see - bonus points for harmless interpretations!<br>
 
-*STOP:*
+*STOP:*<br>
 - Stop
 - Take a step back
 - Observe the situation
 - Proceed mindfully
 
-*Pros & Cons chart:*
+*Pros & Cons chart:*<br>
 Compare the pros & cons of two or more options you are considering (either in your head, or write it out if that’s an option). Make sure to include pros & cons that other people in the situation may experience.
 
-*Belly Breathing*
+*Belly Breathing*<br>
 Place your hand on your stomach and breathe in for 4 seconds, out for 6-8 seconds to activate your parasympathetic nervous system.
 
 # Conclusion
