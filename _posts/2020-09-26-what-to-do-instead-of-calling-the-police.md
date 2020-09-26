@@ -12,9 +12,9 @@ The energy growing around campaigns to #DefundPolice and to promote abolition ca
 
 Often during moments of crisis our first thought is to dial 911, but this frequently escalates an already heightened situation, or it can lead to a loved one entering the prison system or other harmful institution, which is difficult to escape once entrapped within its reach. One way we can make prisons and police obsolete is by simply not calling the police in the first place, and to do that we must understand what other resources we can tap into within ourselves, our neighbors, and our larger community. 
 
-This is why we put together this webinar, “What To Do Instead of Calling the Police: Building Community Empowerment.” We hope that viewers feel empowered to build and utilize their own skills and support networks, rather than provide alternative call lists that rely on other “experts”, which oftentimes work with or are just as harmful as the police. These reactive resources also do little to address the systemic inequalities that policing supposedly fixes.
+This is why we put together this webinar, “What To Do Instead of Calling the Police - Building Community Empowerment.” We hope that viewers feel empowered to build and utilize their own skills and support networks, rather than provide alternative call lists that rely on other “experts”, which oftentimes work with or are just as harmful as the police. These reactive resources also do little to address the systemic inequalities that policing supposedly fixes.
 
-If you missed the webinar, you can [view it here](https://www.youtube.com/watch?v=M4YjmbQZnBA&t=27s).  
+If you missed the webinar, you can [view it here](https://youtu.be/M4YjmbQZnBA).  
 
 <div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/M4YjmbQZnBA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -25,7 +25,7 @@ Many connections exist between the punitive structures of institutionalization, 
 
 Child endangerment is typically the result of systemic barriers preventing equal access to needed resources. Instead of providing needed resources to families, the state removes children from their homes, which is traumatizing and detrimental to their well-being. Research demonstrates that Black and Indigenous children are more likely to be removed from their families and less likely to reunify. The solution to child endangerment is providing access to resources and supporting at-risk families in our communities, rather than criminalizing and further oppressing our most marginalized community members. 
 
-## For more information, read: 
+**For more information, read** 
 - [We Don’t Need Cops to Become Social Workers](https://blog.usejournal.com/we-dont-need-cops-to-become-social-workers-we-need-peer-support-b8e6c4ffe87a)
 
 - [Abolition Must Include Psychiatry](https://disabilityvisibilityproject.com/2020/07/22/abolition-must-include-psychiatry/)
@@ -50,7 +50,7 @@ Our community may not always be defined by those who look like us but rather wit
 
 And to offer alternative language to community, pod-mapping was a term coined by the Bay Area Transformative Justice Clinic. The people in our “pods” are the people in our lives that we would call on to support us with things such as our immediate and ongoing safety, accountability and transformation of behaviors, or individual and collective healing and resiliency. 
 
-For more information about pod-mapping, you can [review this post and download and print your own pod-mapping worksheet](https://batjc.wordpress.com/pods-and-pod-mapping-worksheet/) from the Bay Area Transformative Justice Clinic. *Note: growing a pod is not easy and takes time. We measure our success by the quality of our relationships with one another, and invest the time to build trust, respect, vulnerability, accountability, care, and love. Building your pod will expand the possibility of other people, who may experience more isolation, from being able to build their own pod.* 
+For more information about pod-mapping, you can [review this post and download and print your own pod-mapping worksheet](https://batjc.wordpress.com/pods-and-pod-mapping-worksheet/) from the Bay Area Transformative Justice Clinic. *Note - growing a pod is not easy and takes time. We measure our success by the quality of our relationships with one another, and invest the time to build trust, respect, vulnerability, accountability, care, and love. Building your pod will expand the possibility of other people, who may experience more isolation, from being able to build their own pod.* 
 
 Learn more about transformative justice experiences through the book, [Beyond Survival](https://www.akpress.org/beyond-survival.html).   
 
@@ -58,14 +58,14 @@ Learn more about transformative justice experiences through the book, [Beyond Su
 ## Safety Plans (pre-Crisis)
 A [safety plan](https://www.loveisrespect.org/for-yourself/safety-planning/) is a “personalized, practical plan that can help you avoid dangerous situations and know the best way to react when you’re in danger.” Safety plans can be something you make yourself, or in collaboration with a loved one. They often benefit people suffering from suicide ideation, psychosis, or other potentially dangerous side-effects of mental illness; individuals in abusive or chaotic relationships; people in recovery from an addiction to drugs or alcohol; or anyone who regularly experiences high-risk crises.
 
-**Tips for Safety Plans:**
-Remember that you are not trying to stop any crisis from ever happening: instead, you are lowering the peak of the crisis.
-If you are helping someone else create a safety plan, the term ‘safety plan’ can be triggering for people who have been in punitive healthcare: approach instead by saying, “I love you and want to feel better prepared to help keep you safe. Can we come up with some strategies together?”
+**Tips for Safety Plans**
+Remember that you are not trying to stop any crisis from ever happening. Instead, you are lowering the peak of the crisis.
+If you are helping someone else create a safety plan, the term ‘safety plan’ can be triggering for people who have been in punitive healthcare. Approach instead by saying, “I love you and want to feel better prepared to help keep you safe. Can we come up with some strategies together?”
 YOU CANNOT CONTROL OTHER PEOPLE. Safety plans are not a way to control others, but to present healthy options that their support network can help them utilize. Do not get angry or interrogative when someone does not follow their safety plan. 
-Tell people about your safety plan! The more people who know, the more likely the plan will be effective. It’s also helpful to get really specific about how you want others to engage with your plan (ex: check in with you about coping skills, call your contacts for you, hold dangerous items in their house, etc). 
+Tell people about your safety plan! The more people who know, the more likely the plan will be effective. It’s also helpful to get really specific about how you want others to engage with your plan (ex- check in with you about coping skills, call your contacts for you, hold dangerous items in their house, etc). 
 Boundaries are healthy! If someone does not want to fulfill a specific role in your plan, it does not mean they don’t love you. Instead, ask them if there is another role they would feel more comfortable fulfilling. 
 
-Here are some more resources for safety plans: 
+**Here are some more resources for safety plans:** 
 - [General Safety Plans](https://www.ktherapy.ca/blog/2018/2/6/how-to-make-a-safety-plan)
  
 - [Domestic Violence Safety Plan](http://stoprelationshipabuse.org/help/develop-a-safety-plan/how-to-begin-safety-planning/)
@@ -83,7 +83,7 @@ Here are some more resources for safety plans:
 - [Safety Plan App](https://www.boost-project.com/schizophrenia-safety-plan/) (advertised for people with schizophrenia, but can be used by anyone!) 
 
 ## Wellness Checks/Trauma and Regulation (mid-Crisis)
-**Wellness Checks:**
+**Wellness Checks**
 
 {% include image.html
   filename="/images/what to do instead of calling the police - 5.JPG"
@@ -103,7 +103,7 @@ Maslow’s hierarchy of needs demonstrates that in order for higher needs to be 
   width="70%"
 %}
 
-When you see someone’s danger response is activated, use the de-escalation strategies below:
+*When you see someone’s danger response is activated, use the de-escalation strategies below*
 
 De-escalation: Re-establish Safety:
 - Regulate yourself! “Be the thermostat, not the thermometer”
@@ -137,7 +137,7 @@ This is where so much of our pre-crisis work in community building  is crucial. 
   width="70%"
 %}
 
-**Some local orgs that focus on mutual aid & community care:**
+**Some local orgs that focus on mutual aid & community care**
 
 - [Salt Lake Covid-19 Mutual Aid](https://www.facebook.com/groups/covid19mutualaidslc) 
 Community members request what they need or offer their services and goods
@@ -161,7 +161,7 @@ The Bystander Effect is a social psychological theory that suggests that individ
 Remember that, like many other terrible things in this world, the bystander effect is NOT a natural, innate part of us. If it’s learned, it can be unlearned.
 
 **How Do I Not Be a Bystander Then?**
-Knowing is (only) the first step.Change your mindset, do a deep dive and look at the carceral logics you’ve internalized, and broaden your definition of community. Cultivate empathy and take action! Ask yourself: How can you, through everyday action and with others, co-create a world without police? 
+Knowing is (only) the first step.Change your mindset, do a deep dive and look at the carceral logics you’ve internalized, and broaden your definition of community. Cultivate empathy and take action! Ask yourself - How can you, through everyday action and with others, co-create a world without police? 
 
 You can introduce yourself to people in your geographic area and build relationships with them (like bringing waters to a local encampment), learn and practice bystander intervention strategies (but take them with a grain of salt), learn and practice harm reduction tactics, and work with or give money to groups that do outreach with at-risk communities. Organizing with your community is the best way to build people power + create a better world!
 
@@ -170,8 +170,7 @@ You can introduce yourself to people in your geographic area and build relations
 
 - [Preventing sexual assault as a bystander](https://www.ihollaback.org/harassmenttraining/) [& this too](https://rainn.org/articles/steps-you-can-take-prevent-sexual-assault?_ga=2.121768395.1785705336.1599930929-189353429.1599930929)
 
-- Handling a mental health crisis:
-https://www.nami.org/Support-Education/Publications-Reports/Guides/Navigating-a-Mental-Health-Crisis/Navigating-A-Mental-Health-Crisis
+- [Handling a mental health crisis](https://www.nami.org/Support-Education/Publications-Reports/Guides/Navigating-a-Mental-Health-Crisis/Navigating-A-Mental-Health-Crisis)
 
 **Organizations to support**
 Utah Naloxone
