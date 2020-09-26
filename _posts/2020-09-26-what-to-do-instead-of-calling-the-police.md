@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “What To Do Instead of Calling the Police - Building Community Empowerment”
+title: “What To Do Instead of Calling the Police: Building Community Empowerment”
 description: "One way we can make prisons and police obsolete is by simply not calling the police in the first place, and to do that we must understand what other resources we can tap into within ourselves, our neighbors, and our larger community. This is why we put together this webinar, 'What To Do Instead of Calling the Police: Building Community Empowerment.' We hope that viewers feel empowered to build and utilize their own skills and support networks, rather than provide alternative call lists that rely on other 'experts', which oftentimes work with or are just as harmful as the police. If you missed the webinar, you can view it and find more resources within this post."
 teaser_image: /images/teasers/what to do instead of calling the police - 1.JPG
 featured: true
@@ -229,7 +229,7 @@ List 5 additional interpretations of the facts you see - bonus points for harmle
 *Pros & Cons chart:*<br>
 Compare the pros & cons of two or more options you are considering (either in your head, or write it out if that’s an option). Make sure to include pros & cons that other people in the situation may experience.
 
-*Belly Breathing*<br>
+*Belly Breathing:*<br>
 Place your hand on your stomach and breathe in for 4 seconds, out for 6-8 seconds to activate your parasympathetic nervous system.
 
 # Conclusion
