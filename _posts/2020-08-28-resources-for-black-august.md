@@ -4,7 +4,6 @@ title: "Resources for Black August"
 description: "The significance and impact of Black radical thinkers and writers cannot be understated. As we honor traditions of Black Radicalism this Black August, we turn to some of these revolutionary thinkers to inform our understanding of the world and of leftist organizing. Their words, still relevant today, call upon us to continue the centuries-long tradition of radical and decolonial organizing efforts. We hope this list can make revolutionary writings accessible, and can help us to incorporate the Black radicals who have led us to this point—and who will lead us forward—into our abolitionist, anti-imperialist, and anticapitalist struggles. 
 "
 teaser_image: /images/teasers/national blm_black august 8_28 6pm.png
-featured: true
 date: 2020-08-28
 ---
 
