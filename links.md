@@ -5,6 +5,11 @@ permalink: /links/
 ---
 <div class="links">
   {% include button.html
+  url="https://www.facebook.com/events/272556100387206/"
+  text="RSVP to a Night Out for Safety and Liberation October 5th"
+%} 
+ 
+ {% include button.html
   url="bit.ly/defundutpolice"
   text="Take the Survey on Budgets and Funding"
 %} 
