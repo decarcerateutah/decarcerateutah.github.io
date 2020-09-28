@@ -10,7 +10,7 @@ date: 2020-09-26
 {% include image.html
   filename="/images/teasers/what to do instead of calling the police - 1.JPG"
   alt="What to do instead of calling the police poster"
-  width =70%
+  width="70%"
 %}
 
 # Introduction
