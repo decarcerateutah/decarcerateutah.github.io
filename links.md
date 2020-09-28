@@ -6,7 +6,7 @@ permalink: /links/
 <div class="links">
   
   {% include button.html
-  url="https://www.facebook.com/events/272556100387206/"
+  url="http://peoplesenergymovement.com/safetyis"
   text="RSVP to a Night Out for Safety and Liberation October 5th"
 %} 
  
