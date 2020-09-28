@@ -10,6 +10,7 @@ date: 2020-09-26
 {% include image.html
   filename="/images/teasers/what to do instead of calling the police - 1.JPG"
   alt="What to do instead of calling the police poster"
+  width =70%
 %}
 
 # Introduction
@@ -50,7 +51,6 @@ Our community may not always be defined by those who look like us but rather wit
   filename="/images/what to do instead of calling the police - 2.JPG"
   alt="Transform Self - Transform Community - Transform Systems"
   caption="From <a href='https://www.instagram.com/p/CE3b1n1jy72/'>chiara.acu</a>"
-  width="70%"
 %}
 
 And to offer alternative language to community, pod-mapping was a term coined by the Bay Area Transformative Justice Clinic. The people in our “pods” are the people in our lives that we would call on to support us with things such as our immediate and ongoing safety, accountability and transformation of behaviors, or individual and collective healing and resiliency.
@@ -74,15 +74,15 @@ A [safety plan](https://www.loveisrespect.org/for-yourself/safety-planning/) is 
 **Here are some more resources for safety plans:**
 - [General Safety Plans](https://www.ktherapy.ca/blog/2018/2/6/how-to-make-a-safety-plan)
 
-- [Domestic Violence Safety Plan](http://stoprelationshipabuse.org/help/develop-a-safety-plan/how-to-begin-safety-planning/)
-[& this one](https://www.loveisrespect.org/for-yourself/safety-planning/)
+- [Domestic Violence Safety Plan](http://stoprelationshipabuse.org/help/develop-a-safety-plan/how-to-begin-safety-planning/), and check out
+[this resource too](https://www.loveisrespect.org/for-yourself/safety-planning/)
 
 - [Suicide Safety Plans](https://www.verywellmind.com/suicide-safety-plan-1067524 https://www.suicideinfo.ca/wp-content/uploads/2019/09/SafetyPlan_Toolkit_0919_web.pdf)
 
 - [Psychosis Safety Plans](https://www.everydayhealth.com/schizophrenia/developing-a-crisis-plan.aspx)
 
-- [Addiction Recovery Safety Plans](https://drugfree.org/wp-content/uploads/2017/11/Early-Recovery-Substance-Use-Safety-Plan.pdf)
-[& this one](https://www.recovery.org/pro/articles/developing-your-personal-recovery-plan-template-included/)
+- [Addiction Recovery Safety Plans](https://drugfree.org/wp-content/uploads/2017/11/Early-Recovery-Substance-Use-Safety-Plan.pdf), and check out
+[this resource too](https://www.recovery.org/pro/articles/developing-your-personal-recovery-plan-template-included/)
 
 - [Safety Plans for Kids](http://socialworktech.com/2017/05/16/safety-plan/?v=f24485ae434a)
 
@@ -94,7 +94,6 @@ A [safety plan](https://www.loveisrespect.org/for-yourself/safety-planning/) is 
 {% include image.html
   filename="/images/what to do instead of calling the police - 5.JPG"
   alt="Maslow's Heirarchy of Needs Pyramid"
-  width="70%"
 %}
 
 A wellness check is done when there is concern for someone’s well-being. Currently wellness checks are completed by the police, but their armed and authoritative presence tends to escalate the risk for harm, which is why we see wellness checks becoming deadly when the police are involved. The good news is that anyone can perform a wellness check within their community. All you need to do is care about the person and refer to Maslow’s hierarchy of needs.
@@ -106,7 +105,6 @@ Maslow’s hierarchy of needs demonstrates that in order for higher needs to be 
   filename="/images/what to do instead of calling the police - 6.JPG"
   alt="Polyvagal Chart"
   caption="<a href='https://www.rubyjowalker.com/PVchart_200706.jpg'>https://www.rubyjowalker.com/PVchart_200706.jpg)</a>"
-  width="70%"
 %}
 
 *When you see someone’s danger response is activated, use the de-escalation strategies below*
@@ -174,7 +172,8 @@ You can introduce yourself to people in your geographic area and build relations
 **Here are more resources about bystander intervention**
 - [Bystander Intervention Training](https://www.ihollaback.org/bystander-resources/) (for the workplace, the internet, and other contexts)
 
-- [Preventing sexual assault as a bystander](https://www.ihollaback.org/harassmenttraining/) [& this too](https://rainn.org/articles/steps-you-can-take-prevent-sexual-assault?_ga=2.121768395.1785705336.1599930929-189353429.1599930929)
+- [Preventing sexual assault as a bystander](https://www.ihollaback.org/harassmenttraining/), and check out
+[this resource too](https://rainn.org/articles/steps-you-can-take-prevent-sexual-assault?_ga=2.121768395.1785705336.1599930929-189353429.1599930929)
 
 - [Handling a mental health crisis](https://www.nami.org/Support-Education/Publications-Reports/Guides/Navigating-a-Mental-Health-Crisis/Navigating-A-Mental-Health-Crisis)
 
@@ -245,5 +244,4 @@ Stay tuned for more updates as we build more ongoing community resources and ski
 {% include image.html
   filename="/images/WordChainLogo_DarkBlue.png"
   alt="Salt Lake Community Bail Fund Logo"
-  width="70%"
 %}
