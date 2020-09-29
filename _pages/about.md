@@ -15,7 +15,7 @@ In Utah, Indigenous communities are some of the most affected by the carceral sy
 
 Since Black queer radical feminists and marginalized peoples as a whole are at the forefront for movements toward abolition, we turn to them to inform our practices in education and organizing for prison industrial complex abolition in Utah. We are involved in education and outreach through sharing resources, hosting workshops, and organizing campaigns about the abolition of policing, prisons and jails, immigration enforcement, and surveillance, while pushing for abolition through policy advocacy, action campaigns, and community organizing.
 
-As Angela Davis write in *Are Prisons’ Obsolete?*, by “positing decarceration as our overarching strategy, we would try to envision a continuum of alternatives to imprisonment—demilitarization of schools, revitalization of education at all levels, a health system that provides free physical and mental care to all, and a justice system based on reparation and reconciliation rather than retribution and vengeance.” (107)
+As Angela Davis writes in *Are Prisons’ Obsolete?*, by “positing decarceration as our overarching strategy, we would try to envision a continuum of alternatives to imprisonment—demilitarization of schools, revitalization of education at all levels, a health system that provides free physical and mental care to all, and a justice system based on reparation and reconciliation rather than retribution and vengeance.” (107)
 
 # Our platform is simple:
 ## Divest from exploitative systems that the prison industrial complex thrives on.
