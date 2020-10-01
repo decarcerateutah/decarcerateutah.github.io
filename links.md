@@ -11,7 +11,7 @@ permalink: /links/
 %} 
  
  {% include button.html
-  url="bit.ly/defundutpolice"
+  url="https://docs.google.com/forms/d/e/1FAIpQLSeHy2JqWw-7AmyyQ7eEIyMh8_jIlakAeWc7IgpcV_xzvTQdpA/viewform"
   text="Take the Survey on Budgets and Funding"
 %} 
  
