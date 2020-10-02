@@ -10,6 +10,11 @@ permalink: /links/
   text="RSVP to a Night Out for Safety and Liberation October 5th"
 %} 
  
+   {% include button.html
+  url=" https://peoplesenergymovement.org/stories/covidconscious"
+  text="Read COVID-concious agreements for in person gatherings"
+%} 
+
  {% include button.html
   url="https://docs.google.com/forms/d/e/1FAIpQLSeHy2JqWw-7AmyyQ7eEIyMh8_jIlakAeWc7IgpcV_xzvTQdpA/viewform"
   text="Take the Survey on Budgets and Funding"
