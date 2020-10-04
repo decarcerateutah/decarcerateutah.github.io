@@ -351,6 +351,7 @@ aside {
 
 aside#secondary {
   top: $padding-top;
+  visibility: hidden;
   opacity: 0;
   transition: 0.5s;
 
@@ -360,6 +361,7 @@ aside#secondary {
 }
 
 aside#secondary.transform {
+  visibility: visible;
   opacity: 1;
   z-index: 1;
   transition: 0.5s;
