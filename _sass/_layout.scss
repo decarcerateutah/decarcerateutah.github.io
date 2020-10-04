@@ -350,6 +350,7 @@ aside {
 }
 
 aside#secondary {
+  display: none;
   top: $padding-top;
   visibility: hidden;
   opacity: 0;
@@ -374,6 +375,10 @@ aside#secondary.transform {
 
   aside > nav > ul > li.secondary {
     display: none;
+  }
+
+  aside#secondary {
+    display: block;
   }
 
   aside .menu-activator {
