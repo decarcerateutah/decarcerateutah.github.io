@@ -8,7 +8,7 @@
   <div class="main">
     <div class="navigation">
       <ul>
-      {% assign footer_pages = site.pages | where: "footer", "true" | sort: "position" %}
+      {% assign footer_pages = site.pages | where: "footer", "true" %}
       {% for node in footer_pages %}
         <li>
           <a href="{{ node.url | prepend: site.baseurl }}">

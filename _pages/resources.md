@@ -2,6 +2,7 @@
 layout: page
 title: resources | decarcerate utah
 secondary: true
+footer: true
 position: 4
 permalink: /resources/
 ---

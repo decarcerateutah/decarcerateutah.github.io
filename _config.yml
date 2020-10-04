@@ -9,6 +9,5 @@ url: 'https://www.decarcerateutah.org/'
 markdown: kramdown
 include:
   - _pages
-  - _events
 paginate: 10
 paginate_path: "/posts/:num/"
