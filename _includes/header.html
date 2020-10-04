@@ -1,34 +1,37 @@
 <aside>
-	<div class="container">
-		<nav>
-			<ul>
-        {% assign nav_nodes = site.pages | where: "nav", "true" | sort: "position" %}
-        {% for node in nav_nodes %}
-          {% if node.url == page.url %}
-            <li>
-              <a href="{{ node.url | prepend: site.baseurl }}" class="active">
-                {{ node.title | remove: ' | decarcerate utah' }}
-              </a>
-            </li>
-          {% else %}
-            <li>
-              <a href="{{ node.url | prepend: site.baseurl }}">
-                {{ node.title | remove: ' | decarcerate utah' }}
-              </a>
-            </li>
-          {% endif %}
-        {% endfor %}
-        <li>
-          <a href="https://www.slcbailfund.org", target="_blank">bail fund</a>
-        </li>
-			</ul>
-		</nav>
-	</div>
+  <nav>
+    <ul>
+      {% assign primary_nodes = site.pages | where: "nav", "true" | sort: "position" %}
+      {% for node in primary_nodes %}
+        {% include nav_item.html class="primary" %}
+      {% endfor %}
+
+      <li>
+        <a href="https://www.slcbailfund.org", target="_blank">bail fund</a>
+      </li>
+
+      {% assign secondary_nodes = site.pages | where: "secondary", "true" | sort: "position" %}
+      {% for node in secondary_nodes %}
+        {% include nav_item.html class="secondary" %}
+      {% endfor %}
+    </ul>
+
+    <div class="menu-activator" onClick="toggleMenu(this)">
+      <div class="bar1"></div>
+      <div class="bar2"></div>
+      <div class="bar3"></div>
+    </div>
+  </nav>
 </aside>
 
-<div class="header">
-  <a href="{{ '/' | prepend: site.baseurl }}">
-    <img src="{{ '/images/decarcerate-logo.png' | prepend: site.baseurl }}" />
-  </a>
-</div>
+<aside id="secondary">
+  <nav>
+    <ul>
+      {% assign secondary_nodes = site.pages | where: "secondary", "true" | sort: "position" %}
+      {% for node in secondary_nodes %}
+        {% include nav_item.html %}
+      {% endfor %}
+    </ul>
+  </nav>
+</aside>
 

@@ -1,8 +1,8 @@
 ---
 layout: page
 title: events | decarcerate utah
-footer: true
-position: 2
+secondary: true
+position: 5
 permalink: /events/
 ---
 

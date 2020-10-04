@@ -6,7 +6,11 @@ $yellow: #f4f923;
 $light-gray: #f3f3f3;
 $dark-gray: #444444;
 
-$content-width: 800px;
+$content-width: 900px;
+$padding-top: 54px;
+$padding-horiz: 15px;
+$padding-bottom: 15px;
+
 $body-background-color: $light-gray;
 $main-background-color: $white;
 
@@ -22,16 +26,15 @@ $link-button-hover-text-color: $white;
 $post-delimiter-color: $gray;
 
 $nav-background-color: $main-background-color;
-$nav-text-color: $font-color;
+$nav-text-color: $black;
 $nav-line-height: 24px;
 $nav-font-size: 15pt;
 $nav-padding-vert: 15px;
 $nav-padding-horiz: 15px;
 $header-image-offset: 20px;
 
-$header-image-padding-top: $nav-line-height + 2*$nav-padding-vert + $header-image-offset;
-
 $font: 'Fanwood Text', sans-serif;
+$line-height: 1.6;
 
 $h1-font: 'Philosopher', serif;
 $h1-size: 24px;

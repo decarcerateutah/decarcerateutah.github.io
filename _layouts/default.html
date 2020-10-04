@@ -3,13 +3,21 @@
   {% include head.html %}
 
   <body>
-    <main>
+    <div class="content">
       {% include header.html %}
-      <article>
-        {{ content }}
-      </article>
+
+      <main>
+        <a href="{{ '/' | prepend: site.baseurl }}">
+          <img src="{{ '/images/decarcerate-logo.png' | prepend: site.baseurl }}" />
+        </a>
+
+        <article>
+          {{ content }}
+        </article>
+      </main>
+
       {% include footer.html %}
-    </main>
+    </div>
   </body>
 </html>
 

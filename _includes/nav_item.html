@@ -1,0 +1,11 @@
+{% if node.url == page.url %}
+  {% assign active = "active" %}
+{% else %}
+  {% assign active = "" %}
+{% endif %}
+
+<li class="{{ include.class }}">
+  <a href="{{ node.url | prepend: site.baseurl }}" class="{{ active }}">
+    {{ node.title | remove: ' | decarcerate utah' }}
+  </a>
+</li>
