@@ -7,6 +7,12 @@ featured: true
 date: 2020-09-26
 ---
 
+{% include image.html
+  filename="/images/teasers/what to do instead of calling the police - 1.JPG"
+  alt="What to do instead of calling the police poster"
+  width="70%"
+%}
+
 # Introduction
 The energy growing around campaigns to #DefundPolice and to promote abolition cannot be stopped. As people are introduced to abolitionist practices, it’s a great time to question the legitimacy of the police and the idea that they promote community safety.
 
@@ -45,7 +51,6 @@ Our community may not always be defined by those who look like us but rather wit
   filename="/images/what to do instead of calling the police - 2.JPG"
   alt="Transform Self - Transform Community - Transform Systems"
   caption="From <a href='https://www.instagram.com/p/CE3b1n1jy72/'>chiara.acu</a>"
-  width="70%"
 %}
 
 And to offer alternative language to community, pod-mapping was a term coined by the Bay Area Transformative Justice Clinic. The people in our “pods” are the people in our lives that we would call on to support us with things such as our immediate and ongoing safety, accountability and transformation of behaviors, or individual and collective healing and resiliency.
@@ -59,24 +64,25 @@ Learn more about transformative justice experiences through the book, [Beyond Su
 A [safety plan](https://www.loveisrespect.org/for-yourself/safety-planning/) is a “personalized, practical plan that can help you avoid dangerous situations and know the best way to react when you’re in danger.” Safety plans can be something you make yourself, or in collaboration with a loved one. They often benefit people suffering from suicide ideation, psychosis, or other potentially dangerous side-effects of mental illness; individuals in abusive or chaotic relationships; people in recovery from an addiction to drugs or alcohol; or anyone who regularly experiences high-risk crises.
 
 **Tips for Safety Plans**
-Remember that you are not trying to stop any crisis from ever happening. Instead, you are lowering the peak of the crisis.
-If you are helping someone else create a safety plan, the term ‘safety plan’ can be triggering for people who have been in punitive healthcare. Approach instead by saying, “I love you and want to feel better prepared to help keep you safe. Can we come up with some strategies together?”
-YOU CANNOT CONTROL OTHER PEOPLE. Safety plans are not a way to control others, but to present healthy options that their support network can help them utilize. Do not get angry or interrogative when someone does not follow their safety plan.
-Tell people about your safety plan! The more people who know, the more likely the plan will be effective. It’s also helpful to get really specific about how you want others to engage with your plan (ex- check in with you about coping skills, call your contacts for you, hold dangerous items in their house, etc).
-Boundaries are healthy! If someone does not want to fulfill a specific role in your plan, it does not mean they don’t love you. Instead, ask them if there is another role they would feel more comfortable fulfilling.
+
+1. Remember that you are not trying to stop any crisis from ever happening. Instead, you are lowering the peak of the crisis.
+2. If you are helping someone else create a safety plan, the term ‘safety plan’ can be triggering for people who have been in punitive healthcare. Approach instead by saying, “I love you and want to feel better prepared to help keep you safe. Can we come up with some strategies together?”
+3. YOU CANNOT CONTROL OTHER PEOPLE. Safety plans are not a way to control others, but to present healthy options that their support network can help them utilize. Do not get angry or interrogative when someone does not follow their safety plan.
+4. Tell people about your safety plan! The more people who know, the more likely the plan will be effective. It’s also helpful to get really specific about how you want others to engage with your plan (ex- check in with you about coping skills, call your contacts for you, hold dangerous items in their house, etc).
+5. Boundaries are healthy! If someone does not want to fulfill a specific role in your plan, it does not mean they don’t love you. Instead, ask them if there is another role they would feel more comfortable fulfilling.
 
 **Here are some more resources for safety plans:**
 - [General Safety Plans](https://www.ktherapy.ca/blog/2018/2/6/how-to-make-a-safety-plan)
 
-- [Domestic Violence Safety Plan](http://stoprelationshipabuse.org/help/develop-a-safety-plan/how-to-begin-safety-planning/)
-[& this one](https://www.loveisrespect.org/for-yourself/safety-planning/)
+- [Domestic Violence Safety Plan](http://stoprelationshipabuse.org/help/develop-a-safety-plan/how-to-begin-safety-planning/), and check out
+[this resource too](https://www.loveisrespect.org/for-yourself/safety-planning/)
 
 - [Suicide Safety Plans](https://www.verywellmind.com/suicide-safety-plan-1067524 https://www.suicideinfo.ca/wp-content/uploads/2019/09/SafetyPlan_Toolkit_0919_web.pdf)
 
 - [Psychosis Safety Plans](https://www.everydayhealth.com/schizophrenia/developing-a-crisis-plan.aspx)
 
-- [Addiction Recovery Safety Plans](https://drugfree.org/wp-content/uploads/2017/11/Early-Recovery-Substance-Use-Safety-Plan.pdf)
-[& this one](https://www.recovery.org/pro/articles/developing-your-personal-recovery-plan-template-included/)
+- [Addiction Recovery Safety Plans](https://drugfree.org/wp-content/uploads/2017/11/Early-Recovery-Substance-Use-Safety-Plan.pdf), and check out
+[this resource too](https://www.recovery.org/pro/articles/developing-your-personal-recovery-plan-template-included/)
 
 - [Safety Plans for Kids](http://socialworktech.com/2017/05/16/safety-plan/?v=f24485ae434a)
 
@@ -88,7 +94,6 @@ Boundaries are healthy! If someone does not want to fulfill a specific role in y
 {% include image.html
   filename="/images/what to do instead of calling the police - 5.JPG"
   alt="Maslow's Heirarchy of Needs Pyramid"
-  width="70%"
 %}
 
 A wellness check is done when there is concern for someone’s well-being. Currently wellness checks are completed by the police, but their armed and authoritative presence tends to escalate the risk for harm, which is why we see wellness checks becoming deadly when the police are involved. The good news is that anyone can perform a wellness check within their community. All you need to do is care about the person and refer to Maslow’s hierarchy of needs.
@@ -100,7 +105,6 @@ Maslow’s hierarchy of needs demonstrates that in order for higher needs to be 
   filename="/images/what to do instead of calling the police - 6.JPG"
   alt="Polyvagal Chart"
   caption="<a href='https://www.rubyjowalker.com/PVchart_200706.jpg'>https://www.rubyjowalker.com/PVchart_200706.jpg)</a>"
-  width="70%"
 %}
 
 *When you see someone’s danger response is activated, use the de-escalation strategies below*
@@ -111,18 +115,18 @@ De-escalation: Re-establish Safety:
   2. Deep breaths
   3. Tone of voice
   4. DO NOT GET DEFENSIVE
-Rapport
-- Introduction - be honest, ask for permission to help, reassure
-Remove Danger- people need danger response when in danger
-- Actual or perceived
-- Reassure
-Reflect
-- Mirror- no need to extinguish emotion
-- Do not tell the person to “calm down”
-- No commands, criticisms, or challenges
-- Limit questions
-Reconnect to present SAFETY
-- Sensory activation and energy release
+- Rapport
+  1. Introduction - be honest, ask for permission to help, reassure
+- Remove Danger- people need danger response when in danger
+  1. Actual or perceived
+  2. Reassure
+- Reflect
+  1. Mirror- no need to extinguish emotion
+  2. Do not tell the person to “calm down”
+  3. No commands, criticisms, or challenges
+  4. Limit questions
+- Reconnect to present SAFETY
+  1. Sensory activation and energy release
 
 ## Mutual Aid/Care Network (post-Crisis)
 After a crisis, our immediate reactions tend to be “did you go to the police?!” or “you have to go to the police!”. We’re so reliant on the legal system that instead of focusing on how we can address immediate needs, we rush into pressuring people to file reports that are often subjected to a long, tiring, drawn-out process. As a result, this means that seeking legal help can be retraumatizing for so many people with no care or support for their healing—which is why a lot of survivors do not report their assaults. Instead of going to the police after something has happened, we can focus on making sure individual needs are taken care.
@@ -160,7 +164,7 @@ The Bystander Effect is a social psychological theory that suggests that individ
 
 Remember that, like many other terrible things in this world, the bystander effect is NOT a natural, innate part of us. If it’s learned, it can be unlearned.
 
-**How Do I Not Be a Bystander Then?**
+**How Do I Not Be a Bystander Then?**<br>
 Knowing is (only) the first step.Change your mindset, do a deep dive and look at the carceral logics you’ve internalized, and broaden your definition of community. Cultivate empathy and take action! Ask yourself - How can you, through everyday action and with others, co-create a world without police?
 
 You can introduce yourself to people in your geographic area and build relationships with them (like bringing waters to a local encampment), learn and practice bystander intervention strategies (but take them with a grain of salt), learn and practice harm reduction tactics, and work with or give money to groups that do outreach with at-risk communities. Organizing with your community is the best way to build people power + create a better world!
@@ -168,32 +172,34 @@ You can introduce yourself to people in your geographic area and build relations
 **Here are more resources about bystander intervention**
 - [Bystander Intervention Training](https://www.ihollaback.org/bystander-resources/) (for the workplace, the internet, and other contexts)
 
-- [Preventing sexual assault as a bystander](https://www.ihollaback.org/harassmenttraining/) [& this too](https://rainn.org/articles/steps-you-can-take-prevent-sexual-assault?_ga=2.121768395.1785705336.1599930929-189353429.1599930929)
+- [Preventing sexual assault as a bystander](https://www.ihollaback.org/harassmenttraining/), and check out
+[this resource too](https://rainn.org/articles/steps-you-can-take-prevent-sexual-assault?_ga=2.121768395.1785705336.1599930929-189353429.1599930929)
 
 - [Handling a mental health crisis](https://www.nami.org/Support-Education/Publications-Reports/Guides/Navigating-a-Mental-Health-Crisis/Navigating-A-Mental-Health-Crisis)
 
 **Organizations to support**
-Utah Naloxone
-[To learn how to use Naloxone](http://www.utahnaloxone.org/utah-naloxone-videos-recognizing-an-overdose-and-using-naloxone-kits/)
-To get a life saving naloxone kit
-Call: (385) 495-9050
+
+Utah Naloxone<br>
+[To learn how to use Naloxone](http://www.utahnaloxone.org/utah-naloxone-videos-recognizing-an-overdose-and-using-naloxone-kits/)<br>
+To get a life saving naloxone kit<br>
+Call: (385) 495-9050<br>
 E-mail: UtahNaloxone@gmail.com
 
-[Utah Harm Reduction Coalition](http://www.utahharmreduction.org/)
+[Utah Harm Reduction Coalition](http://www.utahharmreduction.org/)<br>
 Call: (385) 266-7206
 
-[The Sex Workers Outreach Project Salt Lake City Chapter](https://linktr.ee/swopslc)
+[The Sex Workers Outreach Project Salt Lake City Chapter](https://linktr.ee/swopslc)<br>
 Instagram/Twitter: @SWOPslc
 
-[Just Media Utah](https://justmediautah.com)
-Instagram/Twitter: @justmediautah
+[Just Media Utah](https://justmediautah.com)<br>
+Instagram/Twitter: @justmediautah<br>
 Venmo: @Just-Media-Utah
 
-[United Panther Movement SLC](https://nabpp.net/upm)
-Instagram: @unitedpanthermovementslc
+[United Panther Movement SLC](https://nabpp.net/upm)<br>
+Instagram: @unitedpanthermovementslc<br>
 Venmo: @upm-slc
 
-Community Member Kale
+Community Member Kale<br>
 Venmo: @Kale-Morse
 
 ## Overcoming Fear/Anxiety
@@ -212,31 +218,30 @@ Guidelines for mindfully moving through fear/anxiety:
   2. Does my intervention serve my entire community?
 4. Ask other people for help if you need it!
 
-**Exercises for grounding/mindful decision making:**
-*Five Finger Method:*
-Count 5 deep in-and-out breaths
-List 5 things you can observe with your senses (one for each sense)
-List 5 additional interpretations of the facts you see - bonus points for harmless interpretations!
+**Exercises for grounding/mindful decision making:**<br>
+*Five Finger Method:*<br>
+Count 5 deep in-and-out breaths<br>
+List 5 things you can observe with your senses (one for each sense)<br>
+List 5 additional interpretations of the facts you see - bonus points for harmless interpretations!<br>
 
-*STOP:*
+*STOP:*<br>
 - Stop
 - Take a step back
 - Observe the situation
 - Proceed mindfully
 
-*Pros & Cons chart:*
+*Pros & Cons chart:*<br>
 Compare the pros & cons of two or more options you are considering (either in your head, or write it out if that’s an option). Make sure to include pros & cons that other people in the situation may experience.
 
-*Belly Breathing*
+*Belly Breathing:*<br>
 Place your hand on your stomach and breathe in for 4 seconds, out for 6-8 seconds to activate your parasympathetic nervous system.
 
 # Conclusion
-We thank everyone who came together to share information and welcome any more that you have to share. If you feel like adding to this resource or have comments or concerns, we’d love to hear from you and can be reached at [decarcerateutah@gmail.com](MAILTO: decarcerateutah@gmail.com).
+We thank everyone who came together to participate in this workshop. If you feel like adding to this resource or have comments or concerns, we’d love to hear from you and can be reached at [decarcerateutah@gmail.com](MAILTO: decarcerateutah@gmail.com).
 
 Stay tuned for more updates as we build more ongoing community resources and skill-sharing tips to protect each other from police violence. If you felt like this information was valuable, please consider donating to the [SLC Bail Fund](https://www.slcbailfund.org/donate).
 
 {% include image.html
   filename="/images/WordChainLogo_DarkBlue.png"
   alt="Salt Lake Community Bail Fund Logo"
-  width="70%"
 %}
