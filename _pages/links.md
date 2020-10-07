@@ -5,19 +5,14 @@ permalink: /links/
 ---
 <div class="links">
   
-  {% include button.html
-  url="http://peoplesenergymovement.com/safetyis"
-  text="RSVP to a Night Out for Safety and Liberation October 5th"
-%} 
- 
-   {% include button.html
-  url=" https://peoplesenergymovement.org/stories/covidconscious"
-  text="Read COVID-concious agreements for in person gatherings"
-%} 
-
+{% include button.html
+  url="https://donorbox.org/salt-lake-community-bail-fund?default_interval=o"
+  text="Donate to the Salt Lake Community Bail Fund"
+%}
+  
  {% include button.html
   url="https://docs.google.com/forms/d/e/1FAIpQLSeHy2JqWw-7AmyyQ7eEIyMh8_jIlakAeWc7IgpcV_xzvTQdpA/viewform"
-  text="Take the Survey on Budgets and Funding"
+  text="Take our People's Budget Survey"
 %}
 
 {% include button.html
@@ -26,30 +21,8 @@ permalink: /links/
 %}
 
 {% include button.html
-  url="https://donorbox.org/salt-lake-community-bail-fund?default_interval=o"
-  text="Donate to the Salt Lake Community Bail Fund"
-%}
-
-{% include button.html
   url="https://www.decarcerateutah.org/courtsupport/"
   text="Sign up to be a Court Support Volunteer"
-%}
-
-  <div class="links">
-{% include button.html
-  url="https://www.gofundme.com/f/support-local-protester-charged"
-  text="Donate to Eric Javier's Legal Fund"
-%}
-
-<div class="links">
-{% include button.html
-  url="https://www.decarcerateutah.org/2020/08/24/our-kids-or-drug-couriers.html"
-  text="Read Our Kids Or Drug Couriers"
-%}
-
-{% include button.html
-  url="https://www.change.org/p/salt-lake-city-district-attorney-sim-gill-protect-civil-liberties-demand-the-d-a-drop-all-charges-against-peaceful-protestors"
-  text="Sign the petition: drop all charges for protesters"
 %}
 
 {% include button.html
