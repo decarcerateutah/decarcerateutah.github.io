@@ -8,7 +8,7 @@ date: 2020-10-09
 ---
 
 {% include image.html
-  filename="/images/police k-9 unit"
+  filename="/images/police k-9 unit.JPG"
   caption="Screengrab taken from http://www.slcpd.com/k9-faq/"
   width="70%"
 %}
