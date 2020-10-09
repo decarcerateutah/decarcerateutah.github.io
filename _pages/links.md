@@ -4,6 +4,11 @@ title: links | decarcerate utah
 permalink: /links/
 ---
 <div class="links">
+ {% include button.html
+  url="https://www.decarcerateutah.org/2020/10/09/abolish-the-k9-unit-from-slcpd.html"
+  text="Abolish the K-9 Unit from SLCPD"
+%} 
+  
   
 {% include button.html
   url="https://donorbox.org/salt-lake-community-bail-fund?default_interval=o"
