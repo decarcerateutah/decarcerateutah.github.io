@@ -7,8 +7,8 @@ permalink: /links/
 
 
 {% include button.html
-  url="https://www.facebook.com/events/890842491450620"
-  text="RSVP on Facebook to our Halloween Variety Show"
+  url="https://www.betterunite.com/DecarcerateUtah-ahalloweenvarietyshowtoendcashbail"
+  text="View our silent auction items and register for the variety show"
 %} 
   
   
