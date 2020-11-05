@@ -5,11 +5,10 @@ permalink: /links/
 ---
 <div class="links">
 
-
 {% include button.html
-  url="https://www.betterunite.com/DecarcerateUtah-ahalloweenvarietyshowtoendcashbail"
-  text="View our silent auction items and register for the variety show"
-%} 
+  url="https://us02web.zoom.us/webinar/register/WN_L9U8lFPKRNKbmg_Oa7Gj2A"
+  text="Register to watch SLC Bail Fund in the Social Investors Forum"
+%}
   
   
 {% include button.html
@@ -17,10 +16,6 @@ permalink: /links/
   text="Donate to the Salt Lake Community Bail Fund"
 %}
   
- {% include button.html
-  url="https://docs.google.com/forms/d/e/1FAIpQLSeHy2JqWw-7AmyyQ7eEIyMh8_jIlakAeWc7IgpcV_xzvTQdpA/viewform"
-  text="Take our People's Budget Survey"
-%}
 
 {% include button.html
   url="https://youtu.be/M4YjmbQZnBA"
