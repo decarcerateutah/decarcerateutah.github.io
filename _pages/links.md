@@ -6,8 +6,8 @@ permalink: /links/
 <div class="links">
 
 {% include button.html
-  url="https://us02web.zoom.us/webinar/register/WN_L9U8lFPKRNKbmg_Oa7Gj2A"
-  text="Register to watch SLC Bail Fund in the Social Investors Forum"
+  url="https://docs.google.com/document/d/18OPvoN_sapeQYLLA3YC9VKYKJDYcdUe4FTWMX7IqHUA/edit?usp=sharing"
+  text="Call to #FreeThemAll from the Utah State Prison"
 %}
   
   
