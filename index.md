@@ -2,6 +2,7 @@
 layout: default
 title: news | decarcerate utah
 nav: true
+footer: true
 position: 1
 ---
 

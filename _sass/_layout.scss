@@ -296,7 +296,7 @@ aside {
         float: left;
         position: relative;
         padding: 0 1px;
-        a {
+        a, div {
           text-decoration: none;
           display: block;
           padding: $nav-padding-vert $nav-padding-horiz;
@@ -316,73 +316,84 @@ aside {
       }
     }
   }
-
-  .menu-activator {
-    display: none;
-    padding: 0 $nav-padding-horiz;
-    line-height: $nav-line-height;
-    cursor: pointer;
-
-    .bar1, .bar2, .bar3 {
-      width: 35px;
-      height: 5px;
-      background-color: $black;
-      margin: 6px 0;
-      transition: 0.5s;
-    }
-  }
-
-  .transform {
-    .bar1 {
-      -webkit-transform: rotate(-45deg) translate(-9px, 6px);
-      transform: rotate(-45deg) translate(-9px, 6px);
-    }
-
-    .bar2 {
-      opacity: 0;
-    }
-
-    .bar3 {
-      -webkit-transform: rotate(45deg) translate(-8px, -7px);
-      transform: rotate(45deg) translate(-8px, -7px);
-    }
-  }
 }
 
-aside#secondary {
+aside#mobile {
   display: none;
-  top: $padding-top;
-  visibility: hidden;
-  opacity: 0;
-  transition: 0.5s;
 
-  nav > ul > li {
-    float: none;
+  nav {
+    justify-content: normal;
+    top: $padding-top;
+
+    ul {
+      width: 100%;
+
+      li {
+        float: none;
+
+        a, div {
+          &:hover,
+          &:active,
+          &.active {
+            margin-bottom: 0;
+            border-bottom: 0;
+          }
+        }
+      }
+
+      li#menu-activator {
+        display: flex;
+        justify-content: space-between;
+        border-bottom: 1px solid $light-gray;
+        &:hover {
+          cursor: pointer;
+        }
+
+        div#menu-activator-icon {
+          visibility: hidden;
+          opacity: 0;
+          transition: 0.5s;
+        }
+
+        div#menu-activator-icon.transform {
+          visibility: visible;
+          opacity: 1;
+          transition: 0.5s;
+        }
+      }
+
+      li.menu-item {
+        &:hover,
+        &:active,
+        &.active {
+          border-left: 3px solid $black;
+        }
+      }
+
+      div#menu-items {
+        display: none;
+        visibility: hidden;
+        opacity: 0;
+        transition: 0.5s;
+      }
+
+      div#menu-items.transform {
+        display: block;
+        visibility: visible;
+        opacity: 1;
+        transition: 0.5s;
+      }
+    }
   }
-}
-
-aside#secondary.transform {
-  visibility: visible;
-  opacity: 1;
-  z-index: 1;
-  transition: 0.5s;
 }
 
 @media (max-width: $content-width) {
-  aside > nav {
-    justify-content: space-between;
+  aside#mobile {
+    display: block;
   }
 
-  aside > nav > ul > li.secondary {
+  aside#desktop {
     display: none;
-  }
-
-  aside#secondary {
-    display: block;
-  }
-
-  aside .menu-activator {
-    display: block;
   }
 }
 

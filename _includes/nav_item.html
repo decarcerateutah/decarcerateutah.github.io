@@ -4,7 +4,7 @@
   {% assign active = "" %}
 {% endif %}
 
-<li class="{{ include.class }}">
+<li class="{{ include.class }} {{ active }}">
   <a href="{{ node.url | prepend: site.baseurl }}" class="{{ active }}">
     {{ node.title | remove: ' | decarcerate utah' }}
   </a>

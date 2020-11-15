@@ -1,0 +1,37 @@
+{% assign nodes = site.pages | where: "nav", "true" | sort: "position" %}
+
+<aside id="desktop">
+  <nav>
+    <ul>
+      {% for node in nodes %}
+        {% include nav_item.html %}
+      {% endfor %}
+
+      <li>
+        <a href="https://www.slcbailfund.org", target="_blank">bail fund</a>
+      </li>
+    </ul>
+  </nav>
+</aside>
+
+<aside id="mobile">
+  <nav>
+    <ul>
+      <li id="menu-activator" onClick="toggleMenu()">
+        <div id="menu-activator-text">navigation</div>
+        <div id="menu-activator-icon">&times;</div>
+      </li>
+
+      <div id="menu-items">
+        {% for node in nodes %}
+          {% include nav_item.html class="menu-item" %}
+        {% endfor %}
+
+        <li class="menu-item">
+          <a href="https://www.slcbailfund.org", target="_blank">bail fund</a>
+        </li>
+      </div>
+    </ul>
+  </nav>
+</aside>
+

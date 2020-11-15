@@ -1,7 +1,7 @@
 ---
 layout: page
 title: contact | decarcerate utah
-secondary: true
+nav: true
 footer: true
 position: 6
 permalink: /contact/
