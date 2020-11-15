@@ -67,7 +67,6 @@ ol {
   }
 }
 
-
 img {
   width: $content-width;
   max-width: 100%;
@@ -98,6 +97,23 @@ a.button {
 
 figcaption {
   font-size: $caption-font-size;
+}
+
+a.icon {
+  color: $black;
+  text-decoration: none;
+  padding: 10px;
+  &:active, &:hover {
+    color: $link-button-hover-color;
+  }
+}
+
+i.footer {
+  font-size: 1.5em;
+}
+
+i.contact {
+  font-size: 4em;
 }
 
 /* Classes */
@@ -136,16 +152,12 @@ figcaption {
 .contact {
   text-align: center;
   text-transform: uppercase;
-  h3 {
-    border-top: 10px solid black;
-    margin: 0;
-    padding: 15pt 0;
-    overflow: auto;
-    a {
-      color: $link-color;
-      font-family: $h3-font;
-    }
-  }
+  display: flex;
+  justify-content: space-around;
+}
+
+.contact.two {
+  margin: 0 16.67%;
 }
 
 .date {
@@ -256,21 +268,17 @@ footer {
         color: $font-color;
       }
     }
-    i {
-      font-size: 1.25em !important;
-    }
     p {
       padding: 0;
     }
     .navigation, .social {
       width: 50%;
-      li, i {
+      li {
         padding: 0;
       }
     }
     .social li {
       display: inline;
-      padding: 0 10px;
     }
   }
 }
@@ -399,6 +407,12 @@ aside#mobile {
 
   aside#desktop {
     display: none;
+  }
+}
+
+@media (max-width: 500px) {
+  .contact {
+    flex-direction: column;
   }
 }
 
