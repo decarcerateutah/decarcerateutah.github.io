@@ -1,0 +1,10 @@
+{% if include.text %}
+  <a href="{{ include.url }}" class="icon" target="_blank">
+    <i class="{{ include.icon }} {{ include.icon_class }}"></i><br />
+    {{ include.text }}
+  </a>
+{% else %}
+  <a href="{{ include.url }}" class="icon" target="_blank">
+      <i class="{{ include.icon }} {{ include.icon_class }}"></i></a>
+{% endif %}
+
