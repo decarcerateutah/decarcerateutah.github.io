@@ -10,11 +10,6 @@ permalink: /resources/
 <div class="resources">
 
 {% include button.html
-  url="https://docs.google.com/document/d/1us4Tn7H2ZyuVMDEC0JyVTIZ2UOSBkc-Lr2vCuDYA07Q/edit?usp=sharing"
-  text="Ability-To-Pay Matrix Public Comment Guidance"
-%}
-
-{% include button.html
   url="https://abolitionjournal.org/studyguide/"
   text="If You’re New to Abolition: Study Group Guide from abolition journal"
 %}
