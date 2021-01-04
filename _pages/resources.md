@@ -34,6 +34,12 @@ permalink: /resources/
   text="A world without police"
 %}
 
+
+{% include button.html
+  url="https://docs.google.com/document/u/1/d/1M6Y2XpCBQUwwh5khvVznEbYiUOiUOWpIEgPwqoVplN4/mobilebasic#"
+  text="The Strategic Safety Plan v.1.0"
+%}
+
 {% include button.html
   url="https://incite-national.org/incite-critical-resistance-statement/"
   text="INCITE!-Critical Resistance Statement on Gender Violence and the Prison Industrial Complex (2001)"
