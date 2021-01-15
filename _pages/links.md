@@ -6,8 +6,8 @@ permalink: /links/
 <div class="links">
 
 {% include button.html
-  url="https://docs.google.com/document/d/1us4Tn7H2ZyuVMDEC0JyVTIZ2UOSBkc-Lr2vCuDYA07Q/edit?usp=sharing"
-  text="Ability-To-Pay Matrix Public Comment Guidance"
+  url="bit.ly/keepthefreeze"
+  text="Keep the SLCPD hiring freeze!"
 %}
 
 {% include button.html
