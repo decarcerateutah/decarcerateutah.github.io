@@ -6,7 +6,7 @@ permalink: /links/
 <div class="links">
 
 {% include button.html
-  url="bit.ly/keepthefreeze"
+  url="https://docs.google.com/document/d/1E3W0IktgQKOX4q9RqfJ1bXaH1SXN5SDT-Ixg5fJ3Iys/edit?usp=sharing"
   text="Keep the SLCPD hiring freeze!"
 %}
 
