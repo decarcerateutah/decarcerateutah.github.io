@@ -6,8 +6,8 @@ permalink: /links/
 <div class="links">
 
 {% include button.html
-  url="https://docs.google.com/document/d/1E3W0IktgQKOX4q9RqfJ1bXaH1SXN5SDT-Ixg5fJ3Iys/edit?usp=sharing"
-  text="Keep the SLCPD hiring freeze!"
+  url="https://docs.google.com/forms/d/e/1FAIpQLSeHy2JqWw-7AmyyQ7eEIyMh8_jIlakAeWc7IgpcV_xzvTQdpA/viewform"
+  text="People's Budget Survey"
 %}
 
 {% include button.html
