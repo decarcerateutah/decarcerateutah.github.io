@@ -6,7 +6,7 @@ permalink: /wegotus/
 
 {% include image.html filename="/images/we-got-us.jpg" caption="We Got Us!" %}
 
-# Donate to support the folks and their family members impacted by incarceration
+# Donate to support folks and their family members impacted by imprisonment
 
 <div class="post-image-container">
   <script src="https://donorbox.org/widget.js" paypalExpress="false"></script>
