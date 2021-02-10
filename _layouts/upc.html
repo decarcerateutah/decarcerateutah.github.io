@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+
+  <body>
+    <div class="content">
+      {% include nav.html %}
+
+      <main>
+        <a href="{{ '/' | prepend: site.baseurl }}">
+          <img src="{{ '/images/UPCletterhead.jpg' | prepend: site.baseurl }}" />
+        </a>
+
+        <article>
+          {{ content }}
+        </article>
+      </main>
+
+      {% include footer.html %}
+    </div>
+  </body>
+</html>
+
