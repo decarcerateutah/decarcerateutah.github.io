@@ -15,7 +15,8 @@ Help us raise $5K by March 5th to send to people on the inside and their family 
 This fundraiser is a collaboration between the Rose Park Brown Berets and Decarcerate Utah. 
 <br><br>
 The Rose Park Brown Berets autonomous chapter seeks to empower all oppressed peoples in their community. The RPBB centers the youth of the barrio in their praxis and encourages revolutionary consciousness amongst all people of the barrio. They strive to create alternative systems based on people power: self-sustainable programs, mutual aid work, and supporting other grassroots organizations that align with their values. RPBB will protect their community by any means necessary.
-Decarcerate Utah is a prison abolitionist collective that seeks to dismantle the prison-industrial complex and end the harm that it perpetuates. Find more on the about page.
+<br><br>
+Decarcerate Utah is a prison abolitionist collective that seeks to dismantle the prison-industrial complex and end the harm that it perpetuates. Find more on our [about page](https://www.decarcerateutah.org/about/).
 
 <div class="post-image-container">
   <script src="https://donorbox.org/widget.js" paypalExpress="false"></script>
