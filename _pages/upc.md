@@ -24,7 +24,7 @@ Furthermore... here are some links to helpful documents we have discussed
 during our events and meetings:
 
 - Downloadable Friendly Valentines for Inmates
-  [UPC-Valentemplates.pdf](/images/UPC-valentemplates.pdf)
+  [UPC-Valentemplates.pdf](/images/UPC-Valentemplates.pdf)
 - Base best-practices info sheet (coming soon)
 
 {% include image.html
