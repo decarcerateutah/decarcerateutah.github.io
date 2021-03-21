@@ -6,6 +6,11 @@ permalink: /links/
 <div class="links">
 
 {% include button.html
+  url="https://theappeal.org/politicalreport/utah-cash-bail-reform-repeal/"
+  text="Read our interview in the Appeal"
+%}
+
+{% include button.html
   url="https://www.decarcerateutah.org/wegotus/"
   text="Donate to We Got Us"
 %}
