@@ -1,14 +1,14 @@
 ---
 layout: post
 title: “Be Heard! How to Share Your Voice with the Salt Lake City Council”
-description: "The SLC Council determines the city budget. Share your voice on how taxpayer dollars are spent in your community by attending city council meetings, or by submitting your comment beforehand. 
+description: "The SLC Council determines the city budget. Share your voice on how taxpayer dollars are spent in your community by attending city council meetings, or by submitting your comment beforehand. As a community, we can apply pressure to stop the expansion of policing!
 "
-teaser_image: /images/teasers/Be Heard City Council Comment.jpg
+teaser_image: /images/Be Heard SLC Council Comments.png
 date: 2021-03-27
 ---
 
 {% include image.html
-  filename="/images/teasers/Be Heard City Council Comment.jpg"
+  filename="/images/Be Heard SLC Council Comments.png"
   alt="Share your voice on how taxpayer dollars are spent in your community by attending city council meetings, or by submitting your comment beforehand."
   width="70%"
 %}
@@ -36,12 +36,12 @@ You can also call or email the city any time to leave a comment. All comments re
 
 You can also reach out directly to the representative of your district to make an impact. As a constituent you have a right to tell your elected officials how they should prioritize the budget. Find out what district you are in by [using this map](https://maps.slcgov.com/mws/citizenrepresentation.htm). Here are the emails of each Salt Lake city council member: 
 
-<b>District 1</B> James Rogers: james.rogers@slcgov.com
-<b>District 2</B> Andrew Johnston: andrew.johnston@slcgov.com
-<b>District 3</B> Chris Wharton: chris.warton@slcgov.com
-<b>District 4</B> Ana Valdemoros: ana.valdemoros@slcgov.com
-<b>District 5</B> Darin Mano: darin.mano@slcgov.com
-<b>District 6</B> Dan Dugan: dan.dugan@slcgov.com
+<b>District 1</B> James Rogers: james.rogers@slcgov.com<br>
+<b>District 2</B> Andrew Johnston: andrew.johnston@slcgov.com<br>
+<b>District 3</B> Chris Wharton: chris.warton@slcgov.com<br>
+<b>District 4</B> Ana Valdemoros: ana.valdemoros@slcgov.com<br>
+<b>District 5</B> Darin Mano: darin.mano@slcgov.com<br>
+<b>District 6</B> Dan Dugan: dan.dugan@slcgov.com<br>
 <b>District 7</B> Amy Fowler: amy.fowler@slcgov.com
 
 {% include image.html
