@@ -3,7 +3,6 @@ layout: post
 title: “What To Do Instead of Calling the Police - Building Community Empowerment”
 description: "One way we can make prisons and police obsolete is by simply not calling the police in the first place, and to do that we must understand what other resources we can tap into within ourselves, our neighbors, and our larger community. This is why we put together this webinar, 'What To Do Instead of Calling the Police: Building Community Empowerment.' We hope that viewers feel empowered to build and utilize their own skills and support networks, rather than provide alternative call lists that rely on other 'experts', which oftentimes work with or are just as harmful as the police. If you missed the webinar, you can view it and find more resources within this post."
 teaser_image: /images/teasers/what to do instead of calling the police - 1.JPG
-featured: true
 date: 2020-09-26
 ---
 
