@@ -21,7 +21,7 @@ Often in the city council work meetings, they discuss proposed budget amendments
 As a community, we can apply pressure to stop the expansion of policing!  
 
 # Here’s how to speak up: 
-<b>WHEN:</b> Work sessions are most Tuesdays at 2pm, and formal meetings are most Tuesdays at 7 p.m. Work sessions are usually listen-only, where formal meetings have a public comment period. 
+<b>WHEN:</b> Work sessions are most Tuesdays at 2 p.m., and formal meetings are most Tuesdays at 7 p.m. Work sessions are usually listen-only, where formal meetings have a public comment period. 
 You can find the [meeting schedule on the city’s website](http://www.slc.gov/council/virtual-meetings/). You can also register to submit public comments, find your district representative, subscribe to meeting updates, and more at that link.
  
 <b>WHERE:</b> Virtual meetings can be viewed via WebEx, Facebook, YouTube, and SLCTV Channel 17.
@@ -31,18 +31,18 @@ You can find the [meeting schedule on the city’s website](http://www.slc.gov/c
 You can also call or email the city any time to leave a comment. All comments related to the agenda will be added to the public record. 
 
 <b>City Council Comments: </b>
-[council.comments@slcgov.com](mailto: council.comments@slcgov.com)
+[council.comments@slcgov.com](mailto: council.comments@slcgov.com)<br>
 24-hour Comment Phone Line: 801-535-7654
 
-You can also reach out directly to the representative of your district to make an impact. As a constituent you have a right to tell your elected officials how they should prioritize the budget. Find out what district you are in by [using this map](https://maps.slcgov.com/mws/citizenrepresentation.htm). Here are the emails of each Salt Lake city council member: 
+You can also reach out directly to the representative of your district to make an impact. As a constituent you have a right to tell your elected officials how they should prioritize the budget. Find out what district you are in by [using this map](https://maps.slcgov.com/mws/citizenrepresentation.htm). Here are the emails of each Salt Lake City council member: 
 
-<b>District 1</B> James Rogers: james.rogers@slcgov.com<br>
-<b>District 2</B> Andrew Johnston: andrew.johnston@slcgov.com<br>
-<b>District 3</B> Chris Wharton: chris.warton@slcgov.com<br>
-<b>District 4</B> Ana Valdemoros: ana.valdemoros@slcgov.com<br>
-<b>District 5</B> Darin Mano: darin.mano@slcgov.com<br>
-<b>District 6</B> Dan Dugan: dan.dugan@slcgov.com<br>
-<b>District 7</B> Amy Fowler: amy.fowler@slcgov.com
+<b>District 1</B> James Rogers: [james.rogers@slcgov.com](mailto: james.rogers@slcgov.com)<br>
+<b>District 2</B> Andrew Johnston: [andrew.johnston@slcgov.com](mailto: andrew.johnston@slcgov.com)<br>
+<b>District 3</B> Chris Wharton: [chris.warton@slcgov.com](mailto: chris.warton@slcgov.com)<br>
+<b>District 4</B> Ana Valdemoros: [ana.valdemoros@slcgov.com](mailto: ana.valdemoros@slcgov.com)<br>
+<b>District 5</B> Darin Mano: [darin.mano@slcgov.com](mailto: darin.mano@slcgov.com)<br>
+<b>District 6</B> Dan Dugan: [dan.dugan@slcgov.com](mailto: dan.dugan@slcgov.com)<br>
+<b>District 7</B> Amy Fowler: [amy.fowler@slcgov.com](mailto: amy.fowler@slcgov.com)
 
 {% include image.html
   filename="/images/Budget Amendment Demand Still Defund Police.png"
