@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: “An Abolitionist Look at the Recommendations from the Salt Lake City Racial Equity in Policing Commission”
