@@ -9,6 +9,7 @@ date: 2021-03-29
 {% include image.html
   filename="/images/teasers/If all lives mattered....JPG"
   alt="quilted tapestry with the text - If all lives matter 'cause all are created equal, why are some people more equal than others?"
+  caption="[image source](https://justseeds.org/graphic/if-all-lives-matter-cause-were-all-equal-why-are-some-lives-more-equal-than-others/)"
   width="100%"
 %}
 
