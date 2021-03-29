@@ -83,6 +83,6 @@ Salt Lake City is embracing change because of public pressure, and we need every
 
 {% include image.html
   filename="/images/defundpolice.JPG"
-  alt="Person on bike with "defund the police" written on an orange sign"
+  alt="Person on bike with 'defund the police' written on an orange sign"
   width="70%"
 %}
