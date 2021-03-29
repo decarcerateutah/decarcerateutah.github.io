@@ -9,14 +9,14 @@ date: 2021-03-29
 
 {% include image.html
   filename="/images/teasers/If all lives mattered....JPG"
-  alt="If all lives matter 'cause all are created equal, why are some people more equal than others?"
-  width="70%"
+  alt="quilted tapestry with the text - If all lives matter 'cause all are created equal, why are some people more equal than others?"
+  width="100%"
 %}
 
 # Introduction
 [The Racial Equity in Policing Commission](https://www.slc.gov/boards/racial-equity-in-policing-commission/) was created in the summer of 2020 after countless protests against police violence and calls for defunding the Salt Lake City Police Department (SLCPD). They formed with a mission to “address and improve the disparate outcomes seen in the interactions between the Salt Lake City Police Department and communities of color compared to White [sic] residents, as well as the internal disparities that exist within the department.”
 
-They have presented recommendations to the city council several times, but published their first set of recommendations for the public on March 2nd, 2021. You can [read it in full here](https://www.dropbox.com/s/pi79esjideoqwyc/Recommendations%20from%20REP.pdf?dl=0).
+They have presented recommendations to the city council several times, but published their first set of recommendations for the public on March 2nd, 2021. You can [read it in full here](https://slc.primegov.com/Portal/viewer?id=17370&type=2).
 
 There are three main areas of concern that the commission presented recommendations for. They are: 
 1. DEMOGRAPHIC CONCERNS RELATED TO FIELD TRAINING OFFICERS (FTO)
@@ -81,3 +81,9 @@ Rather than attempt to train officers out of biases, or hire more diverse people
 We can no longer accept the status quo. We can build something different. We can empower citizens to utilize their own mediation skills and support networks. We can invest in resources that provide comprehensive support to eliminate economic insecurity. This isn’t a pipe dream — cities like Minneapolis, Oakland, and Seattle have embraced the calls to [defund the police](https://defundpolice.org/) and are creating new systems based on collective care.
 
 Salt Lake City is embracing change because of public pressure, and we need everyone in the community to help guide this transformation. We hope you’ll join us in our continued efforts to #DefundSLCPD and invest in community resources. 
+
+{% include image.html
+  filename="/images/defundpolice.JPG"
+  alt="Person on bike with "defund the police" written on an orange sign"
+  width="70%"
+%}
