@@ -18,6 +18,12 @@
   {% endif %}
 
   {% if include.caption %}
-    <figcaption>{{ include.caption }}</figcaption>
+    <figcaption>
+      {% if include.caption_url %}
+        <a href="{{ include.caption_url }}">{{ include.caption }}</a>
+      {% else %}
+        {{ include.caption }}
+      {% endif %}
+    </figcaption>
   {% endif %}
 </figure>
