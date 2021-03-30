@@ -6,8 +6,13 @@ permalink: /links/
 <div class="links">
 
 {% include button.html
+  url="https://www.decarcerateutah.org/2021/03/29/Abolitionist-Look-Recommendations-from-Salt-Lake-City-Racial-Equity-in-Policing-Commission.html"
+  text="An Abolitionist Look at the Recommendations from the Salt Lake City Racial Equity in Policing Commission"
+%}
+
+{% include button.html
   url="https://theappeal.org/politicalreport/utah-cash-bail-reform-repeal/"
-  text="Read our interview in the Appeal"
+  text="Read about Utah Bail Reform in the Appeal"
 %}
 
 {% include button.html
