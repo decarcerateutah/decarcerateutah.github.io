@@ -6,6 +6,11 @@ permalink: /links/
 <div class="links">
 
 {% include button.html
+  url="https://communityresourcehub.org/wp-content/uploads/2021/04/0407_CARES_ARPA_B.pdf"
+  text="More about the American Rescue Plan Act"
+%}
+
+{% include button.html
   url="https://docs.google.com/document/d/1Mws6cQUsDKFvyGg6cVmemDunyKwWb6ZwQ0jsWGIXBBE/edit?usp=sharing"
   text="Stop Budget Amendment No. 7!"
 %}
