@@ -33,7 +33,7 @@ As Angela Davis writes in *Are Prisons’ Obsolete?*, by “positing decarcerati
 1. We support bringing the margins to the center in our campaign and educational work, and reject the notion that people—especially those who are marginalized based on race or class—are disposable, which is a primary function of the carceral system.
 2. We oppose the expansion or construction of any new prison, jail, detention center, youth facility, or other operation that functions under a similar carceral framework.
 3. We support measures that will reduce the prison or jail populations until everyone is freed and prisons are obsolete.
-4. We oppose any reform that reinforces the legitimacy of the criminal justice system.
+4. We oppose any reform that reinforces the legitimacy of the criminal punishment system.
 5. We support transformative justice, disability justice, and healing practices that fall outside of colonial traditions.
 6. We oppose the operations of police and street-based harassment.
 7. We support interdependent and supportive communities that take care of each other.
