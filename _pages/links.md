@@ -20,10 +20,6 @@ permalink: /links/
   text="Stop Budget Amendment No. 7!"
 %}
 
-{% include button.html
-  url="https://www.decarcerateutah.org/2021/03/29/Abolitionist-Look-Recommendations-from-Salt-Lake-City-Racial-Equity-in-Policing-Commission.html"
-  text="An Abolitionist Look at the Recommendations from the Salt Lake City Racial Equity in Policing Commission"
-%}
 
 {% include button.html
   url="https://www.decarcerateutah.org/2021/03/29/Abolitionist-Look-Recommendations-from-Salt-Lake-City-Racial-Equity-in-Policing-Commission.html"
