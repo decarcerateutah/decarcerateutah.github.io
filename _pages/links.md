@@ -6,6 +6,11 @@ permalink: /links/
 <div class="links">
 
 {% include button.html
+  url="https://drive.google.com/file/d/1-_g_smCBcqjPakMcW5dKUpJM7smh69P6/view?usp=sharing"
+  text="Read our zine to #DefundSLCPD"
+%}
+
+{% include button.html
   url="https://communityresourcehub.org/wp-content/uploads/2021/04/0407_CARES_ARPA_B.pdf"
   text="More about the American Rescue Plan Act"
 %}
