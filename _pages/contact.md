@@ -1,27 +1,10 @@
 ---
 layout: page
 title: contact | decarcerate utah
-nav: true
 footer: true
 position: 6
 permalink: /contact/
 ---
-
-<div class="contact two">
-  {% include icon.html
-    url="https://tinyletter.com/decarcerateutah"
-    icon="fa fa-newspaper-o"
-    icon_class="contact"
-    text="newsletter"
-  %}
-
-  {% include icon.html
-    url="https://docs.google.com/forms/d/16SlqqzamtJhjopwvtL7W-ETFr_9eNyOyqldDbb1IE2w/edit?ts=5e7aad0d"
-    icon="fa fa-file-text-o"
-    icon_class="contact"
-    text="get involved"
-  %}
-</div>
 
 <div class="contact">
   {% include icon.html
@@ -37,6 +20,15 @@ permalink: /contact/
     icon_class="contact"
     text="instagram"
   %}
+</div>
+
+<div class="contact">
+  {% include icon.html
+    url="https://tinyletter.com/decarcerateutah"
+    icon="fa fa-newspaper-o"
+    icon_class="contact"
+    text="newsletter"
+  %}
 
   {% include icon.html
     url="https://twitter.com/decarcerateutah"
@@ -46,7 +38,7 @@ permalink: /contact/
   %}
 </div>
 
-<div class="contact two">
+<div class="contact">
   {% include icon.html
     url="mailto:decarcerateutah@gmail.com"
     icon="fa fa-envelope-o"

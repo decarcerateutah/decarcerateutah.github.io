@@ -1,10 +1,10 @@
 ---
 layout: page
-title: resources | decarcerate utah
+title: learn | decarcerate utah
 nav: true
 footer: true
 position: 4
-permalink: /resources/
+permalink: /learn/
 ---
 
 <div class="resources">
