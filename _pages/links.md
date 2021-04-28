@@ -6,6 +6,11 @@ permalink: /links/
 <div class="links">
 
 {% include button.html
+  url="https://www.discgolfscene.com/tournaments/Bail_Out_Bonanza_2021"
+  text="Register for the Bail Out Bonanza!"
+%}
+
+{% include button.html
   url="https://drive.google.com/file/d/1-_g_smCBcqjPakMcW5dKUpJM7smh69P6/view?usp=sharing"
   text="Read our zine to #DefundSLCPD"
 %}
