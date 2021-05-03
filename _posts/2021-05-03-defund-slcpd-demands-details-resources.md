@@ -207,6 +207,7 @@ Social work, like policing, has its own history of racism, structural harm, and 
 - Does it provide material relief? 
 - Does it perpetuate ideologies of good vs. bad, deserving vs. undeserving, violent vs. nonviolent, criminal vs. innocent?
 - Does it legitimate or expand carceral systems? 
+
 For an example of a healing resource that does not partner with the police, we refer to the [Black Emotional and Mental Health Collective](https://www.beam.community/whatwebelieve). 
 
 **Provide grants to therapists and social workers to offer free therapy programs for residents facing economic and other hardships.**
