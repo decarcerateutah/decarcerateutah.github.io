@@ -236,7 +236,11 @@ Furthermore, all humans require restrooms, and there is a lack of them except fo
 Learn [more about harm reduction](https://www.opensocietyfoundations.org/explainers/what-harm-reduction) and consider supporting local organizations in Utah such as the [Utah Harm Reduction Coalition](http://www.utahharmreduction.org/) and [Utah Naloxone](http://www.utahnaloxone.org/). You can also find a [syringe exchange schedule](http://health.utah.gov/epi/prevention/syringeexchange/UTSEPEventSchedule.pdf). 
 
 **Maintain the city zoning in place over the “Fleet Block,” and ensure the murals portraying victims of police violence remain a public space where residents can determine its use.**
-
+{% include image.html
+  filename="/images/fleet block.jpg"
+  alt="picture of the murals of portraits at the fleet block"
+   width="70%"
+%}
 People in any city benefit from deep connections to the history and culture of the place they live and interact in. Salt Lake City is experiencing rapid gentrification, with new apartment buildings going up faster than residents can afford them, as rent prices climb at far faster rates than our wages. 
 
 The murals portraying people we have lost from police killings at what the city terms the [Fleet Block](https://fleet-block-rezone-slcgov.hub.arcgis.com/) were created spontaneously in response to the rage, grief, and disillusionment about policing both here and across the country. Since their creation, the community has forged a space for people to gather to make themselves heard, share ideas, celebrate, mourn, provide necessities, and connect. The city now wants to create apartment complexes out of the Fleet Block. This would ruin the integrity of the space and drive the community away. Instead, the city should allow that space to continue to operate with public determination and autonomy. 
