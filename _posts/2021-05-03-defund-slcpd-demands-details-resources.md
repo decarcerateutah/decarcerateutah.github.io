@@ -50,13 +50,13 @@ To voice your support for these demands, you can [bookmark our post](https://www
 # How Salt Lake City can divest from policing
 We advocate for budget cuts to the following programs and units in order to fund social services for people experiencing a diversity of hardships throughout our city. Many of the so-called “problems” in our city stem from a lack of supportive governmental services, while funding is instead given to surveil and harass our community through policing operations. We view the city’s police department budget as having room for divestment in the following areas.  
 
-**Cut $3.9 million of the funding to the Office of the Chief to $1.95, and reduce the department size from 24 to 12 FTEs, prioritizing cuts to the PR department.
+## Cut $3.9 million of the funding to the Office of the Chief to $1.95, and reduce the department size from 24 to 12 FTEs, prioritizing cuts to the PR department.
 
 Outside of the department of airports, the SLCPD is the only department in Salt Lake City that receives funding for a public relations team. The police’s PR department has two interests: to convince the public that our city is dangerous, and to convince the public that the police are keeping our community safe. They work with the media to distort the truth in favor of their own narratives. By divesting from the PR department, the public can discern for themselves whether the actions or inactions of the police are helpful or harmful. 
 
-**Cut $27.7 million of the funding to the Administrative and Operations Support to $13.85 million, and reduce the size from 263 FTEs to 132. Prioritize cuts to the School Resource Officers, Narcotics Unit, SWAT, Internal Affairs, Training, Compstat, and Organized Crime Unit.
+## Cut $27.7 million of the funding to the Administrative and Operations Support to $13.85 million, and reduce the size from 263 FTEs to 132. Prioritize cuts to the School Resource Officers, Narcotics Unit, SWAT, Internal Affairs, Training, Compstat, and Organized Crime Unit.
 
-*Why cut school resource officers?*
+**Why cut school resource officers?**
 
 School resource officers (SROs) are police officers stationed in public schools throughout the city. There is a vast amount of research in the arena of the school-to-prison pipeline (STTP), the process by which students who are traditionally marginalized in schools (those who identify as Black and Indigenous people of color, or BIPOC; LGBTQ+; and students with disabilities) are pushed out of schools and into the criminal justice system. Keeping police out of schools is one way to reduce the harmful impacts of youth involvement in the criminal justice system. 
 
@@ -72,19 +72,19 @@ At the same time, [essential school services are significantly understaffed](htt
 
 In response to research and community demands, [numerous cities have already begun to remove cops from schools](https://www.cnn.com/2020/06/28/us/police-out-of-schools-movement/index.html). We demand that Salt Lake City join the ranks of these forward-thinking local governments that have chosen to invest in student wellbeing rather than the criminal justice system. 
 
-*Why cut the Narcotics Unit?*
+**Why cut the Narcotics Unit?**
 
 The Narcotics Unit is an aging relic of the racist legacy of the war on drugs. Rather than targeting people—particularly people of color—to enforce drug laws like possession or trafficking, Utah could decriminalize drug use so that people can use drugs safely or safely recover from addiction. Even the LDS church-owned *Deseret News* has [published opinion pieces](https://www.deseret.com/2018/10/25/20656892/in-our-opinion-time-for-peace-in-the-war-on-drugs) calling for an end to the war on drugs, arguing that harsh punishments do not deter drug use. The war on drugs has damaged our country by incarcerating people for low-level drug offenses that disrupt their network of care through separation and financial dependency.  
 
 Read more about why we urgently need to address  the racial disparities of drug enforcement over the years in our post titled “[Our Kids or Drug Couriers?](https://www.decarcerateutah.org/2020/08/24/our-kids-or-drug-couriers.html)”
 
-*Why cut SWAT (Special Weapons and Tactics)?*
+**Why cut SWAT (Special Weapons and Tactics)?**
 
 SWAT teams were created in the 1960s to deal with extreme situations like prison escapes and hostage situations. Now, most of their time is spent serving warrants for routine drug searches, and with over-militarized police departments, they frequently barge into people’s homes, causing severe trauma and harm. Over two-thirds of SWAT searches don’t even uncover a weapon on the scene ([ACLU 2014](https://www.aclu.org/sites/default/files/assets/jus14-warcomeshome-report-web-rel1.pdf)). 
 
 For more about SWAT teams and the harm they cause to local communities, we recommend reading *Rise of the Warrior Cop* by Radley Balko. 
 
-*Why cut Internal Affairs?*
+**Why cut Internal Affairs?**
 
 Every year, thousands of police are investigated for cases of abuse, misconduct, negligence, or violence. Most of these investigations are shielded from the public view and mainstream media.
 
@@ -92,19 +92,19 @@ Police should not investigate their own. Instead, the city should have a departm
 
 In 2019, USA Today started collecting officer misconduct information to create a public database and found that over 30,000 police officers had lost their law enforcement licenses in 44 different states. [Explore the database here](https://www.usatoday.com/in-depth/news/investigations/2019/04/24/biggest-collection-police-accountability-records-ever-assembled/2299127002/).
 
-*Why cut the training unit?*
+**Why cut the training unit?**
 
 Historically, many forms of police training are either ineffective at their stated purpose, forgotten, or dismantled by the police department over time. Focusing on training assumes that it is the individual officers who are choosing to enact racism against residents based on the onboarding process, and not that they are joining a system built on inequality and bias toward BIPOC. This furthers the belief that better training would ensure that we can rely on police for safety, and that instances of police harm and violence occur because of lack of training. 
 
 For more about police training, we refer to [this document from Critical Resistance](https://static1.squarespace.com/static/59ead8f9692ebee25b72f17f/t/5b65cd58758d46d34254f22c/1533398363539/CR_NoCops_reform_vs_abolition_CRside.pdf) about reformist reforms vs. abolitionist steps in policing. You can also read our post about the recommendations from the [Commission on Racial Equity in Policing in Salt Lake City](https://www.decarcerateutah.org/2021/03/29/Abolitionist-Look-Recommendations-from-Salt-Lake-City-Racial-Equity-in-Policing-Commission.html), who have largely advocated for more funding for training SLCPD officers. 
 
-*Why cut CompStat?*
+**Why cut CompStat?**
 
 Predictive policing programs like CompStat use so-called data collection to gather and analyze information about crime rates in the city. These programs often generate false positives that are used to promote the efficacy of the product by creating feedback loops based on previously formed police biases. Racial inequality then becomes coded as risk, and rebrands the police as arbitrary and neutral, rather than operating within a framework of white supremacy. 
 
 For more about predictive policing programs, we refer to Stop LAPD Spying’s report, “[Before the Bullet Hits the Body](https://stoplapdspying.org/wp-content/uploads/2018/05/Before-the-Bullet-Hits-the-Body-Report-Summary.pdf)”
 
-*Why cut the Organized Crime Unit?*
+**Why cut the Organized Crime Unit?**
 
 The Organized Crime Unit uses a variety of operations that “aim to interdict prostitution, underage beer sales, park lewdness, gambling, and other related crimes.” In many industries—like sex work, drug use, and alcohol sales—decriminalization is a practical choice that reduces police power and allows for individual autonomy in career choices. Instead of arrests and assaults that fuel the trauma and life disruption of jails and the court system, which further marginalize economically disadvantaged residents, our city could provide workplace protections and harm reduction resources. Further, through decriminalization, we can provide safety and protection without the expensive licensing and regulations that legalization requires.
 
@@ -116,13 +116,13 @@ The Organized Crime Unit uses a variety of operations that “aim to interdict p
    width="70%"
 %}
 
-**Cut $47 million of the funding for the Operations Unit to $23.5 million, and reduce the size from 419 FTEs to 209. Prioritize cuts to the K9 Unit, Community Intelligence Unit, Gang Unit, Social Worker Partnership and Homeless Outreach Service Team, and the Crisis Intervention Team. In addition, reduce the number of police on patrol units, which are geographically based but driven by CompStat data.
+## Cut $47 million of the funding for the Operations Unit to $23.5 million, and reduce the size from 419 FTEs to 209. Prioritize cuts to the K9 Unit, Community Intelligence Unit, Gang Unit, Social Worker Partnership and Homeless Outreach Service Team, and the Crisis Intervention Team. In addition, reduce the number of police on patrol units, which are geographically based but driven by CompStat data.
 
-*Why cut the K9 Unit?*
+**Why cut the K9 Unit?**
 
 In October, the city released 19 videos showcasing police violence from the K-9 unit. Police weaponization of animals is inhumane and cruel. Dogs do not want to bite humans; this desire is forced upon them by police trainers. Further, K9 dogs do not accurately detect drugs—dogs are trained to “detect” assets using skewed incentives. The elimination of these weaponized animals would reduce the risk of trauma enacted on people bit by reluctant dogs within a rogue police unit. Read more in our post about [abolishing the K9 Unit](https://www.decarcerateutah.org/2020/10/09/abolish-the-k9-unit-from-slcpd.html). 
 
-*Why cut the Gang Unit?*
+**Why cut the Gang Unit?**
 
 The Gang Unit in the SLCPD is “responsible for prevention, suppression and investigation of gang involved crimes.” In practice, police use gang suppression measurements to categorize and target people primarily based on race and class. Gang enhancements are then often tacked onto sentences, as we saw attempted after the arrests made on the July 9 and May 30 protests last year, as well as how [prison guards in Utah](https://www.sltrib.com/news/2021/04/06/prisoner-advocates-warned/) intentionally house rival groups together to encourage fighting, sometimes lengthening their time served by up to four times the original sentence.
 
@@ -130,13 +130,13 @@ Threats, intimidation, and humiliation by the police often ramp up opposition, e
 
 For more information, we recommend reading *The End of Policing* by Alex Vitale. 
 
-*Why cut the Social Worker Partnership and Homeless Outreach Service team?*
+**Why cut the Social Worker Partnership and Homeless Outreach Service team?**
 
 While mental health crisis intervention and outreach services are important, we know that co-responder models with police presence can be threatening and escalate a situation regardless of the amount of training that the paired mental health or medical provider has. Mental health and substance use concerns are best supported with de-escalation techniques and safety measures, which police presence threatens by nature of their ability to fine, arrest, or commit violence against someone in a crisis. Police presence, regardless of their role within the agency, is often perceived as a threat due to the historical and current violence to which police agencies subject individuals struggling with mental health issues or homelessness. Mental health and substance use services can and should exist outside of the scope of police departments to increase safety for those seeking services and engaging in outreach efforts.
 
 For more on this subject, read “[Social Workers Are Rejecting Calls for Them to Replace Police](https://theappeal.org/social-workers-are-rejecting-calls-for-them-to-replace-police/)” by *The Appeal*.
 
-*Why cut the Crisis Intervention team?*
+**Why cut the Crisis Intervention team?**
 
 The Salt Lake City Crisis Intervention Team (CIT) provides training and coordination on a local level, in partnership with local agencies, of specially trained officers certified in crisis management response and follow-up. The team conducts academies and other training for all SLCPD officers to ensure consistency among all CIT officers. The team also provides follow-up on mental health-related issues encountered by SLCPD officers.
 
@@ -144,7 +144,7 @@ Unfortunately, Salt Lake City police officers have shown an alarming disregard f
 
 We believe that all professionals who work closely with the public should be well-trained in responding to mental health crises. However, training is only effective when matched by intentions for community growth and safety. Rather than paying for more training of a disinterested and dangerous police department, these funds could be used to bolster and improve crisis intervention programs outside of the police department. Instead of relying on heavily armed “warriors” to respond to mental health crises, the city could utilize peer support and mental health practitioners for more holistic and transformative care. 
 
-*Why reduce the number of police on patrols?* 
+**Why reduce the number of police on patrols?** 
 
 Officer patrols are ostensibly intended to prevent and suppress criminal activity and effective responses to victims of crime and other calls for service within the city. Patrol resources are deployed based on geographical beats and the CompStat focus areas. Patrol officers also create community partnerships and improve community relationships through community-oriented policing. 
 
@@ -163,7 +163,7 @@ You can [use this tool](https://defundpolice.org/budgeting-tools/pricing-public-
 
 ## Supportive housing services
 
-*Boosting rental assistance programs.*
+**Boosting rental assistance programs.**
 
 [Rental assistance](https://cdc.thehcn.net/promisepractice/index/view?pid=4101) is not only a form of crime prevention—it is a way to invest in our community and its future. Rental assistance offers a hand to those who need it the most. Around two-thirds of those who need assistance are either seniors, people with disabilities, or children of families living below the poverty line. With 23 million Americans having to spend more than half of their income on rent, rental assistance has lifted many above the poverty line. 
 
@@ -173,7 +173,7 @@ When we invest in rental assistance, we invest in children’s current wellbeing
 
 To get involved with tenants’ rights in Utah, we recommend turning to [Wasatch Tenants United](https://wasatchtenants.org/).
 
-*Providing grants for supportive housing and unsheltered programs.*
+**Providing grants for supportive housing and unsheltered programs.**
 
 Supportive housing is a combination of affordable housing and integrated services, such as mental health and case management resources. Such programs are designed to help people stay permanently housed, as opposed to transitional services or shelters that only provide a temporary solution. 
 
@@ -181,7 +181,7 @@ Supportive housing has a tangible effect on those utilizing the services and the
 
 For more about supportive housing resources, you can [read about](https://endhomelessness.org/resource/ending-chronic-homelessness-saves-taxpayers-money/) how they save taxpayers money and how they help vulnerable people to [live and thrive](https://www.cbpp.org/research/housing/supportive-housing-helps-vulnerable-people-live-and-thrive-in-the-community) in their community. You can also read more about Housing First programs [here](https://endhomelessness.org/resource/housing-first/). 
 
-*Issuing more vouchers for temporary housing at hotels and motels.*
+**Issuing more vouchers for temporary housing at hotels and motels.**
 
 Vouchers for temporary housing can help ensure that all residents of our city have access to safe emergency housing when needed. A robust temporary housing voucher program can help make sure that no one needs to spend a night in the cold when shelters are full, and they give families a way to safely stay together rather than facing separation in overcrowded, often dangerous shelters. Further, they support the dignity and wellbeing of all individuals by allowing for privacy, in contrast to the typical shelter environment, which can feel dehumanizing, overwhelming, and unsafe. 
 
@@ -189,7 +189,7 @@ From DC to Kansas City, many communities around the U.S. have been offering temp
 
 But assistance shouldn’t end with a voucher for short-term housing. According to the three-year-long [Family Options Study](https://www.theatlantic.com/business/archive/2015/08/homeless-shelters-theres-a-better-way/425757/), longer-term vouchers for stable housing options are the best way to keep people off the streets permanently. These programs involve directly paying a housing subsidy to the landlord on behalf of the tenant.
 
-*Investing more into community land trusts and other programs that lower the barriers to home ownership.* 
+**Investing more into community land trusts and other programs that lower the barriers to home ownership.**
 
 Community land trusts (CLT) are community-owned, managed, and acquired land lots that lease land parcels to people for residential, commercial, or agricultural uses. A CLT is a way to ensure community-led development of individually owned buildings on community-owned land. Last year, [Moms 4 Housing](https://oakclt.org/portfolio-items/moms-house/) in Oakland bartered with a development company, Wedgewood Inc., by occupying a vacant house in Oakland to highlight disparities in affordable housing. In May 2020, OakCLT purchased the home to secure its community ownership, highlighting how CLTs can be used as a powerful tool for putting properties back into community hands.
 
@@ -197,7 +197,7 @@ In Salt Lake City, only $500,000 is currently allocated to our [Community Land T
 
 ## Mental health resources 
 
-*Implementing community-based public safety systems that exist without partnership with the police department.* 
+**Implementing community-based public safety systems that exist without partnership with the police department.** 
 
 Social work, like policing, has its own history of racism, structural harm, and systemic biases. We are not under the illusion that social workers are the least harmful alternative to police officers—however, we can imagine a new kind of social work that is de-professionalized, rooted in solidarity over charity, and anti-capitalist. The only way to do that is to de-program social work initiatives that exist in partnership with the police.
 
@@ -209,11 +209,11 @@ Social work, like policing, has its own history of racism, structural harm, and 
 - Does it legitimate or expand carceral systems? 
 For an example of a healing resource that does not partner with the police, we refer to the [Black Emotional and Mental Health Collective](https://www.beam.community/whatwebelieve). 
 
-*Provide grants to therapists and social workers to offer free therapy programs for residents facing economic and other hardships.*
+**Provide grants to therapists and social workers to offer free therapy programs for residents facing economic and other hardships.**
 
 Many people recognize the value of mental health care, yet few are able to access it. By establishing a grant program that covers therapy sessions, the city could provide material support and resources enabling residents to connect with therapists and social workers. City staff could build a database on the city’s website and provide free sessions for up to six months, with exceptions given under special circumstances. This would also empower social work professionals to continue their therapeutic practice unburdened by the financial hardships of others while they continue to contribute to our community’s healing processes. 
 
-*Invest in peer-support programs and counselors in schools that center non-punitive interventions.*
+**Invest in peer-support programs and counselors in schools that center non-punitive interventions.**
 
 Recent trends have shown that more people are opening up to the idea of implementing restorative justice (RJ) programs in schools, but more often than not, these programs are run by police or school resource officers. One of the key tenets of RJ is that participation is voluntary. When people are threatened with punishment, it takes away the integrity of the process. By divesting from SROs, schools can help students feel safer and more comfortable with the idea of going through an accountability process or mediation without the fear of suspension, arrest, or even imprisonment. 
 
@@ -221,7 +221,7 @@ To learn more, read about how many [RJ programs can result in a net widening](ht
 
 ## Community spaces
 
-*Invest more in public spaces like parks, libraries, outdoor spaces, and community centers, with free public restrooms (including showers) and programming.*
+**Invest more in public spaces like parks, libraries, outdoor spaces, and community centers, with free public restrooms (including showers) and programming.**
 
 Public parks in urban centers provide important reprieves for residents to enjoy the outdoors and gather with friends and family. In Salt Lake City, parks and trails are especially important for their ability to help us clear the air. Having green spaces where we can connect to our environment helps root us in place and commits us to keeping those spaces intact for generations. 
 
@@ -229,19 +229,19 @@ In addition, public spaces like libraries and community centers offer more struc
 
 Furthermore, all humans require restrooms, and there is a lack of them except for in private businesses. Not noticing the [lack of public restrooms](https://www.cleanlink.com/news/article/Why-Public-Toilets-Are-Important--24354) is a privilege that is held by those who don’t suffer from houselessness or certain disabilities that require frequent bathroom use. The lack of public restrooms that is so pervasive in the U.S. has become obsolete in most European and Asian capitals. Access to bathrooms is  not only a human right—it is also a public health issue. [Hepatitis outbreaks](https://www.sandiegouniontribune.com/news/health/sd-no-hepa-update-20180222-story.html) can be linked to lack of restrooms and fecal matter seeping into the water supply. If we want to invest in our cities, we have to [invest in spaces for basic human functions](https://ggwash.org/view/68854/clean-safe-and-accessible-public-restrooms-make-cities-livable).
 
-*Create safe spaces for harm reduction services.*
+**Create safe spaces for harm reduction services.**
 
 [Harm reduction](https://www.hri.global/what-is-harm-reduction) includes a variety of services and policies that reduce adverse effects of drug use and protect public health. These include needle exchange programs, safe injection sites, detox centers, [medication-assisted treatment](https://www.samhsa.gov/medication-assisted-treatment) (MAT), peer support services, overdose prevention and reversal, and detox and treatment centers. These options have been shown to improve survival, retention in treatment, ability to gain and maintain employment, and birth outcomes for women with substance use disorders, while decreasing illicit opiate use or other harmful activity. Salt Lake City has implemented some of these services but is lacking the funding to meet the needs of our community. Those who use substances have dignity and deserve access to life-saving services.
 
 Learn [more about harm reduction](https://www.opensocietyfoundations.org/explainers/what-harm-reduction) and consider supporting local organizations in Utah such as the [Utah Harm Reduction Coalition](http://www.utahharmreduction.org/) and [Utah Naloxone](http://www.utahnaloxone.org/). You can also find a [syringe exchange schedule](http://health.utah.gov/epi/prevention/syringeexchange/UTSEPEventSchedule.pdf). 
 
-*Maintain the city zoning in place over the “Fleet Block,” and ensure the murals portraying victims of police violence remain a public space where residents can determine its use.*
+**Maintain the city zoning in place over the “Fleet Block,” and ensure the murals portraying victims of police violence remain a public space where residents can determine its use.**
 
 People in any city benefit from deep connections to the history and culture of the place they live and interact in. Salt Lake City is experiencing rapid gentrification, with new apartment buildings going up faster than residents can afford them, as rent prices climb at far faster rates than our wages. 
 
 The murals portraying people we have lost from police killings at what the city terms the [Fleet Block](https://fleet-block-rezone-slcgov.hub.arcgis.com/) were created spontaneously in response to the rage, grief, and disillusionment about policing both here and across the country. Since their creation, the community has forged a space for people to gather to make themselves heard, share ideas, celebrate, mourn, provide necessities, and connect. The city now wants to create apartment complexes out of the Fleet Block. This would ruin the integrity of the space and drive the community away. Instead, the city should allow that space to continue to operate with public determination and autonomy. 
 
-*Offer other direct assistance programs for people of color, survivors of violence and police brutality, and people affected by economic hardship.*
+**Offer other direct assistance programs for people of color, survivors of violence and police brutality, and people affected by economic hardship.**
 
 Systemic practices and policies rooted in racism, such as Jim Crow segregation, redlining, and criminalization, have stolen from African-American communities in countless ways. Reparations is a process of healing and restoring people who were injured because of their group identity. They require a reckoning, acknowledgement, and repair of past and ongoing harms; monetary compensation to individuals and their descendants, as well as family and community members of individuals harmed; public education and memorialization; and an end to present-day policies and practices that perpetuate harm rooted in a history of anti-Black racism. They are owed in a manner to be determined by Black people in our community. 
 
