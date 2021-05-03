@@ -6,6 +6,11 @@ permalink: /links/
 <div class="links">
 
 {% include button.html
+  url="https://www.decarcerateutah.org/2021/05/03/defund-slcpd-demands-details-resources.html"
+  text="#DefundSLCPD - Demands, Details, and Resources"
+%}
+  
+{% include button.html
   url="https://www.discgolfscene.com/tournaments/Bail_Out_Bonanza_2021"
   text="Register for the Bail Out Bonanza!"
 %}
