@@ -21,8 +21,8 @@ In addition to all of that, the SLCPD uses thousands of volunteer hours every ye
 
 The SLCPD has not been around forever, nor do we need to guarantee its continuity. The police do not prevent, solve, or heal our community from harm. Instead of relying on them to respond to calls, we can empower people who make up the fabric of our community by investing more resources into mental health providers, housing services and social workers, violence interventionists—even neighbors, family, and friends, since they are more likely to be our actual first responders. We can create non-police intervention programs in our city to reduce harm in our schools, neighborhoods, workplaces, and homes, cultivating a healthy and thriving city. 
 
-Watch this short video about why the demand is to defund the police.  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bT0YpOmk8NA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Click here](https://drive.google.com/file/d/1-_g_smCBcqjPakMcW5dKUpJM7smh69P6/view) to download a copy of our zine to #DefundSLCPD, and watch this short video about why the demand is to defund the police.  
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/bT0YpOmk8NA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 # What is police abolition?
 Our culture encourages people to call the police for nearly every problem—be it a mental health crisis, broken taillight, or a loud party next door—creating multiple opportunities for the police to intervene in interpersonal relationships. This increases the scope of surveillance, harassment, and violence from the police. As police departments grow, so do their responsibilities, to the point where [even the police in SLC admit](https://kutv.com/news/2news-investigates/social-workers-going-out-with-police-slc-already-has-it-but-staffing-is-limited) they are asked to solve things that are not in their job description.
@@ -108,7 +108,13 @@ For more about predictive policing programs, we refer to Stop LAPD Spying’s re
 
 The Organized Crime Unit uses a variety of operations that “aim to interdict prostitution, underage beer sales, park lewdness, gambling, and other related crimes.” In many industries—like sex work, drug use, and alcohol sales—decriminalization is a practical choice that reduces police power and allows for individual autonomy in career choices. Instead of arrests and assaults that fuel the trauma and life disruption of jails and the court system, which further marginalize economically disadvantaged residents, our city could provide workplace protections and harm reduction resources. Further, through decriminalization, we can provide safety and protection without the expensive licensing and regulations that legalization requires.
 
-[Read our post](https://www.decarcerateutah.org/2020/07/03/sex-workers-fight-for-liberation.html) about how decriminalization is the only way forward to lift sex workers out of harm’s way.  
+[Read our post](https://www.decarcerateutah.org/2020/07/03/sex-workers-fight-for-liberation.html) about how decriminalization is the only way forward to lift sex workers out of harm’s way. 
+
+{% include image.html
+  filename="/images/2- Decrim Sex work.jpeg"
+  alt="collage with text that says decriminalize sex work"
+   width="70%"
+%}
 
 **Cut $47 million of the funding for the Operations Unit to $23.5 million, and reduce the size from 419 FTEs to 209. Prioritize cuts to the K9 Unit, Community Intelligence Unit, Gang Unit, Social Worker Partnership and Homeless Outreach Service Team, and the Crisis Intervention Team. In addition, reduce the number of police on patrol units, which are geographically based but driven by CompStat data.
 
@@ -247,7 +253,7 @@ Of course, there are many other programs that we would like to see implemented i
 # How to make your voice heard
 Share your voice on how taxpayer dollars are spent in your community by attending city council meetings, or by submitting your comment beforehand. You can call or email the city at any time to leave a comment. All comments related to the agenda will be added to the public record.
 
-City Council Comments: [council.comments@slcgov.com](mailto: council.comments@slcgov.com)
+City Council Comments: [council.comments@slcgov.com](mailto: council.comments@slcgov.com)<br>
 24-Hour Comment Phone Line: 801-535-7654
 
 You can also reach out directly to the representative of your district to make an impact. As a constituent, you have a right to tell your elected officials how they should prioritize the budget. Find out what district you are in by [using this map](https://maps.slcgov.com/mws/citizenrepresentation.htm). Learn more about how to make your voice heard by the City Council in [this post](https://www.decarcerateutah.org/2021/03/27/be-heard-comment-salt-lake-city-council.html). 
